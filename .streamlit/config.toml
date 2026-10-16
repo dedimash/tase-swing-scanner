@@ -1,0 +1,13 @@
+[client]
+toolbarMode = "viewer"
+showErrorDetails = "none"
+
+[theme]
+base = "light"
+primaryColor = "#1f6feb"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = true

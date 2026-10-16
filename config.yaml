@@ -1,0 +1,106 @@
+# הגדרות המערכת. כל הספים נמצאים כאן ולא בקוד.
+
+account:
+  capital_ils: 100000          # ההון של המשתמשת, בשקלים
+  risk_per_trade_pct: 0.75     # כמה אחוז מההון מותר להפסיד בעסקה אחת
+  max_position_pct: 25         # פוזיציה אחת לא תעלה על 25% מההון (בלי מינוף)
+
+costs:
+  commission_pct: 0.0          # עמלה באחוזים מכל צד של העסקה
+  commission_min_ils: 0.0      # עמלת מינימום לכל צד, בשקלים
+  slippage_pct: 0.10           # החלקה באחוזים מכל צד (מרווח + ביצוע)
+
+data:
+  cache_dir: .cache
+  daily_history_years: 6       # שנה ראשונה משמשת לחימום האינדיקטורים
+  daily_ttl_hours: 6
+  intraday_ttl_minutes: 15
+  download_chunk_size: 50
+  index_symbol: "^TA125.TA"
+  usdils_symbol: "USDILS=X"
+
+universe:
+  min_avg_turnover_ils: 1000000   # מחזור כספי יומי ממוצע מינימלי לסריקה
+  turnover_window_days: 20
+
+quality:
+  max_daily_jump_pct: 25
+
+setups:
+  breakout_20d:
+    lookback: 20
+    volume_mult: 1.5
+    volume_window: 20
+    trend_sma: 50
+    atr_period: 14
+    max_gap_atr: 1.0
+    stop_lookback: 5
+    max_stop_atr: 2.0
+    target_r: 2.0
+    max_hold_days: 10
+    regime: up                 # מתי מותר לקחת איתות: up = רק בשוק עולה | not_down = לא בשוק יורד | any
+    # שיפורים אפשריים. null / false = כבוי.
+    above_sma200: false        # המחיר גם מעל ממוצע 200 ימים
+    min_rs: null               # חוזק יחסי מינימלי מול המדד (0 = חזקה מהמדד)
+    rs_period: 63
+    max_atr_contraction: null  # ATR(10)/ATR(50) ביום שלפני הפריצה (מתחת ל-1 = התכווצות)
+    min_close_location: null   # מיקום הסגירה בטווח היום, 0 עד 1 (0.75 = ברבע העליון)
+    entry_mode: open           # open = פתיחה של מחר | stop_above_high = רק אם עוברים את הגבוה של יום הפריצה
+    breakeven_r: null          # הזזת הסטופ למחיר הכניסה אחרי סגירה ברווח של X*R
+    trail_atr: null            # סטופ נגרר: X*ATR מתחת לסגירה הגבוהה מאז הכניסה
+    rank_by: volume            # בחירה כשאין מקום בתיק: volume (יחס מחזור) | rs (חוזק יחסי)
+
+  pullback_ema20:
+    pullback_days: 3           # הנמוך של 3 הימים האחרונים נגע בממוצע 20
+    touch_pct: 1.0             # "נגיעה" = עד 1% מעל הממוצע
+    atr_period: 14
+    max_stop_atr: 2.0
+    target_r: 2.0
+    max_hold_days: 7
+    regime: not_down
+
+  rsi2_reversion:
+    rsi_period: 2
+    rsi_max: 10                # RSI(2) מתחת ל-10
+    atr_period: 14
+    stop_atr: 2.5              # סטופ רחוק: X*ATR מתחת לסגירה
+    exit_ma: 5                 # יציאה בסגירה הראשונה מעל ממוצע 5 ימים
+    max_hold_days: 7
+    regime: not_down
+
+risk:
+  max_open_positions: 5        # לסימולציית תיק: לכל היותר 5 עסקאות פתוחות במקביל
+  max_per_sector: 2            # אזהרה כשיש יותר מ-2 הזדמנויות באותו סקטור
+  max_adv_pct: 1.5             # פוזיציה לא עולה על 1.5% מהמחזור היומי הממוצע (במספר מניות)
+
+events:
+  ttl_hours: 12
+  estimate_days_after_last: 91 # כשאין תאריך דוח ידוע: הערכה = הדוח הקודם + 91 ימים
+  estimate_margin_days: 10     # טווח אי-ודאות סביב ההערכה
+
+market_hours:                  # שעון ישראל. מ-5.1.2026 המסחר בימים שני עד שישי
+  weekday_close: "17:35"
+  friday_close: "13:50"
+  open: "09:45"
+
+backtest:
+  years: 5
+  walk_forward:
+    train_years: 3
+    min_train_trades: 30
+    grids:                     # רשתות קטנות בכוונה: פחות ניסיונות = פחות התאמת יתר
+      breakout_20d:
+        volume_mult: [1.2, 1.5, 2.0]
+        target_r: [1.5, 2.0, 3.0]
+        max_hold_days: [5, 10]
+      pullback_ema20:
+        target_r: [1.5, 2.0, 3.0]
+        max_hold_days: [5, 10]
+      rsi2_reversion:
+        rsi_max: [5, 10]
+        stop_atr: [2.0, 3.0]
+        max_hold_days: [5, 10]
+
+regime:
+  fast_sma: 50
+  slow_sma: 200

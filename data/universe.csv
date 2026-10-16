@@ -1,0 +1,907 @@
+symbol,name_he,aliases,name_en,currency,financial_currency,market_cap_ils,avg_turnover_ils,in_ta125,ta35_approx,dual_listed,us_symbol,sector,industry,sector_group,name_source
+LUMI.TA,בנק לאומי לישראל,לאומי;בנק לאומי,Bank Leumi le-Israel B.M.,ILA,ILS,109725646848.0,217222986.0,1,1,0,,Financial Services,Banks - Regional,bank,wikipedia_ta125
+POLI.TA,בנק הפועלים,פועלים;הפועלים,Bank Hapoalim B.M.,ILA,ILS,100602486784.0,205718263.0,1,1,0,,Financial Services,Banks - Regional,bank,wikipedia_ta125
+TSEM.TA,טאואר סמיקונדקטור,טאואר,Tower Semiconductor Ltd.,ILA,USD,73538125824.0,169781227.0,1,1,1,TSEM,Technology,Semiconductors,other,wikipedia_ta125
+ESLT.TA,אלביט מערכות,אלביט,Elbit Systems Ltd.,ILA,USD,107877687296.0,146057296.0,1,1,1,ESLT,Industrials,Aerospace & Defense,other,wikipedia_ta125
+TEVA.TA,טבע תעשיות פרמצבטיות,טבע,Teva Pharmaceutical Industries Limited,ILA,USD,149518712832.0,133683883.0,1,1,1,TEVA,Healthcare,Drug Manufacturers - Specialty & Generic,other,wikipedia_ta125
+MZTF.TA,בנק מזרחי טפחות,מזרחי;מזרחי טפחות,Mizrahi Tefahot Bank Ltd.,ILA,ILS,61004783616.0,114670608.0,1,1,0,,Financial Services,Banks - Regional,bank,wikipedia_ta125
+DSCT.TA,בנק דיסקונט לישראל,דיסקונט;בנק דיסקונט,Israel Discount Bank Limited,ILA,ILS,42350043136.0,109328318.0,1,1,0,,Financial Services,Banks - Regional,bank,wikipedia_ta125
+PHOE.TA,הפניקס פיננסים,הפניקס;פניקס,Phoenix Financial Ltd.,ILA,ILS,45461073920.0,99205200.0,1,1,0,,Financial Services,Insurance - Diversified,insurance,wikipedia_ta125
+NVMI.TA,נובה,נובה מכשירי מדידה,Nova Ltd.,ILA,USD,32664928256.0,85423806.0,1,1,1,NVMI,Technology,Semiconductor Equipment & Materials,other,wikipedia_ta125
+ENLT.TA,אנלייט אנרגיה מתחדשת,אנלייט,Enlight Renewable Energy Ltd,ILA,USD,31128702976.0,83032995.0,1,1,1,ENLT,Utilities,Utilities - Renewable,other,wikipedia_ta125
+NXSN.TA,נקסט ויז'ן מערכות מיוצבות,נקסט ויז'ן;נקסטויז'ן,"NextVision Stabilized Systems, Ltd.",ILA,USD,16935708672.0,70365330.0,1,1,0,,Industrials,Security & Protection Services,other,wikipedia_ta125
+CLIS.TA,כלל החזקות עסקי ביטוח,כלל;כלל ביטוח,Clal Insurance Enterprises Holdings Ltd.,ILA,ILS,23029450752.0,63184900.0,1,1,0,,Financial Services,Insurance - Life,insurance,wikipedia_ta125
+CYBR.TA,פאלו אלטו,פאלו אלטו נטוורקס;סייברארק,"Palo Alto Networks, Inc.",ILA,USD,943726592000.0,62805121.0,1,1,1,PANW,Technology,Software - Infrastructure,other,wikipedia_ta125
+TASE.TA,הבורסה לניירות ערך בתל אביב,הבורסה;בורסה,The Tel-Aviv Stock Exchange Ltd.,ILA,ILS,13983892480.0,61298422.0,1,1,0,,Financial Services,Financial Data & Stock Exchanges,other,wikipedia_ta125
+HARL.TA,הראל השקעות,הראל;הראל ביטוח,Harel Insurance Investments & Financial Services Ltd,ILA,ILS,39562993664.0,57692828.0,1,1,0,,Financial Services,Insurance - Diversified,insurance,wikipedia_ta125
+NICE.TA,נייס,נייס מערכות,NICE Ltd.,ILA,USD,20934279168.0,53879011.0,1,1,1,NICE,Technology,Software - Application,other,wikipedia_ta125
+CAMT.TA,קמטק,,Camtek Ltd.,ILA,USD,19129284608.0,47213922.0,1,1,1,CAMT,Technology,Semiconductor Equipment & Materials,other,wikipedia_ta125
+BEZQ.TA,בזק,,Bezeq The Israel Telecommunication Corp. Ltd,ILA,ILS,19818029056.0,43896841.0,1,1,0,,Communication Services,Telecom Services,other,wikipedia_ta125
+MMHD.TA,מנורה מבטחים החזקות,מנורה;מנורה מבטחים,Menora Mivtachim Holdings Ltd.,ILA,ILS,33502957568.0,42829511.0,1,1,0,,Financial Services,Insurance - Life,insurance,wikipedia_ta125
+MGOR.TA,מגה אור החזקות,מגה אור,Mega Or Holdings Ltd,ILA,ILS,18644291584.0,41351839.0,1,1,0,,Real Estate,Real Estate - Diversified,real_estate,wikipedia_ta125
+FIBI.TA,הבנק הבינלאומי,בינלאומי;הבינלאומי,First International Bank of Israel Ltd,ILA,ILS,23860709376.0,41283976.0,1,1,0,,Financial Services,Banks - Regional,bank,wikipedia_ta125
+MGDL.TA,מגדל אחזקות ביטוח ופיננסים,מגדל;מגדל ביטוח,Migdal Insurance and Financial Holdings Ltd.,ILA,ILS,21078935552.0,40590935.0,1,1,0,,Financial Services,Insurance - Life,insurance,wikipedia_ta125
+DORL.TA,קבוצת דוראל אנרגיה,דוראל,Doral Group Renewable Energy Resources Ltd,ILA,ILS,11842482176.0,39896692.0,1,0,0,,Utilities,Utilities - Renewable,other,wikipedia_ta125
+OPCE.TA,או.פי.סי אנרגיה,אופיסי;או פי סי,OPC Energy Ltd.,ILA,USD,29927174144.0,34133691.0,1,1,0,,Utilities,Utilities - Independent Power Producers,other,wikipedia_ta125
+NVPT.TA,נאוויטס פטרוליום,נאוויטס,"Navitas Petroleum, Limited Partnership",ILA,USD,14856322048.0,32711532.0,1,1,0,,Energy,Oil & Gas E&P,other,wikipedia_ta125
+ICL.TA,איי.סי.אל גרופ,כיל;כימיקלים לישראל;אייסיאל,ICL Group Ltd,ILA,USD,19877062656.0,32649201.0,1,1,1,ICL,Basic Materials,Agricultural Inputs,other,wikipedia_ta125
+ELAL.TA,אל על,אלעל,El Al Israel Airlines Ltd.,ILA,USD,10916492288.0,31726749.0,1,0,0,,Industrials,Airlines,other,wikipedia_ta125
+AZRG.TA,קבוצת עזריאלי,עזריאלי,Azrieli Group Ltd.,ILA,ILS,47515623424.0,29449598.0,1,1,0,,Real Estate,Real Estate Services,real_estate,wikipedia_ta125
+ORA.TA,אורמת טכנולוגיות,אורמת,"Ormat Technologies, Inc.",ILA,USD,17188395008.0,24864040.0,1,1,1,ORA,Utilities,Utilities - Renewable,other,wikipedia_ta125
+DLEKG.TA,קבוצת דלק,דלק,Delek Group Ltd.,ILA,ILS,15153717248.0,24726193.0,1,1,0,,Energy,Oil & Gas E&P,other,wikipedia_ta125
+ORL.TA,בתי זיקוק לנפט,"בזן;בז""ן;בתי זיקוק",Oil Refineries Ltd.,ILA,USD,6379533824.0,23755416.0,1,0,0,,Energy,Oil & Gas Refining & Marketing,other,wikipedia_ta125
+NOFR.TA,נופר אנרגיה,נופר,O.Y. Nofar Energy Ltd,ILA,ILS,5761543680.0,23491545.0,1,0,0,,Utilities,Utilities - Renewable,other,wikipedia_ta125
+BIG.TA,ביג מרכזי קניות,ביג,BIG Shopping Centers Ltd,ILA,ILS,18624600064.0,23224406.0,1,1,0,,Real Estate,Real Estate Services,real_estate,wikipedia_ta125
+MLSR.TA,מליסרון,,Melisron Ltd.,ILA,ILS,19161556992.0,21364414.0,1,1,0,,Real Estate,Real Estate Services,real_estate,wikipedia_ta125
+BSEN.TA,מנועי בית שמש,בית שמש מנועים,Bet Shemesh Engines Holdings (1997) Ltd,ILA,USD,7672912384.0,21122408.0,1,0,0,,Industrials,Aerospace & Defense,other,wikipedia_ta125
+SAE.TA,שופרסל,,Shufersal Ltd,ILA,ILS,9818373120.0,20576941.0,1,1,0,,Consumer Defensive,Grocery Stores,other,wikipedia_ta125
+NYAX.TA,נאייקס,,Nayax Ltd.,ILA,USD,5457208320.0,19881258.0,1,0,1,NYAX,Technology,Software - Infrastructure,other,wikipedia_ta125
+ENRG.TA,אנרג'יקס אנרגיות מתחדשות,אנרג'יקס;אנרגיקס,Energix - Renewable Energies Ltd.,ILA,ILS,11003038720.0,19576582.0,1,0,0,,Utilities,Utilities - Renewable,other,wikipedia_ta125
+MTRX.TA,מטריקס,מטריקס אי טי,Matrix IT Ltd.,ILA,ILS,9587466240.0,19459706.0,1,0,0,,Technology,Information Technology Services,other,wikipedia_ta125
+MTAV.TA,מיטב בית השקעות,מיטב,Meitav Investment House Ltd,ILA,ILS,10250337280.0,18625929.0,1,0,0,,Financial Services,Asset Management,other,wikipedia_ta125
+GNRS.TA,ג'נריישן קפיטל,ג'נריישן;גנריישן,Generation Capital Ltd,ILA,ILS,5275188224.0,17700992.0,1,0,0,,Financial Services,Asset Management,other,wikipedia_ta125
+NWMD.TA,ניו-מד אנרג'י,ניומד;ניו מד;דלק קידוחים,NewMed Energy - Limited Partnership,ILA,USD,19356203008.0,17108903.0,1,1,0,,Energy,Oil & Gas E&P,other,wikipedia_ta125
+AYAL.TA,איילון חברה לביטוח,איילון;איילון ביטוח,Ayalon Insurance Company Ltd,ILA,ILS,5067270656.0,16700529.0,1,0,0,,Financial Services,Insurance - Diversified,insurance,wikipedia_ta125
+STRS.TA,שטראוס גרופ,שטראוס,Strauss Group Ltd.,ILA,ILS,14065551360.0,15453360.0,1,1,0,,Consumer Defensive,Packaged Foods,other,wikipedia_ta125
+PAZ.TA,פז קמעונאות ואנרגיה,פז;פז נפט,Paz Retail And Energy Ltd.,ILA,ILS,9179717632.0,15313549.0,1,1,0,,Energy,Oil & Gas Refining & Marketing,other,wikipedia_ta125
+SPEN.TA,שפיר הנדסה ותעשייה,שפיר,Shapir Engineering and Industry Ltd,ILA,ILS,14879340544.0,15232834.0,1,0,0,,Industrials,Engineering & Construction,other,wikipedia_ta125
+SKBN.TA,שיכון ובינוי,,Shikun & Binui Ltd.,ILA,ILS,10602663936.0,14020070.0,1,0,0,,Industrials,Engineering & Construction,other,wikipedia_ta125
+AMOT.TA,אמות השקעות,אמות,Amot Investments Ltd.,ILA,ILS,9585862656.0,13512507.0,1,0,0,,Real Estate,Real Estate Services,real_estate,wikipedia_ta125
+ALHE.TA,אלוני חץ,,Alony-Hetz Properties & Investments Ltd,ILA,ILS,6602447360.0,13031321.0,1,0,0,,Real Estate,Real Estate Services,real_estate,wikipedia_ta125
+ISCD.TA,ישראכרט,,Isracard Ltd.,ILA,ILS,3726020096.0,12965352.0,1,0,0,,Financial Services,Credit Services,other,wikipedia_ta125
+MAXO.TA,מקס סטוק,מקס,Max Stock Ltd.,ILA,ILS,4917765120.0,12870876.0,1,0,0,,Consumer Defensive,Discount Stores,other,wikipedia_ta125
+FIBIH.TA,פ.י.ב.י. אחזקות,פיבי;פיבי אחזקות,F.I.B.I. Holdings Ltd,ILA,ILS,10532979712.0,12722119.0,1,0,0,,Financial Services,Banks - Regional,bank,wikipedia_ta125
+MVNE.TA,"מבנה נדל""ן",מבנה;מבנה נדלן,Mivne Real Estate (K.D) Ltd,ILA,ILS,9649380352.0,11650247.0,1,1,0,,Real Estate,Real Estate Services,real_estate,wikipedia_ta125
+ILCO.TA,החברה לישראל,חברה לישראל,Israel Corporation Ltd,ILA,USD,5801946112.0,11161493.0,1,0,0,,Basic Materials,Specialty Chemicals,other,wikipedia_ta125
+KEN.TA,קנון הולדינגס,קנון,Kenon Holdings Ltd.,ILA,USD,10525896704.0,11075862.0,1,0,1,KEN,Utilities,Utilities - Independent Power Producers,other,wikipedia_ta125
+TRPZ.TA,תורפז תעשיות,תורפז,Turpaz Industries Ltd,ILA,USD,6107615744.0,10898680.0,1,0,0,,Basic Materials,Specialty Chemicals,other,wikipedia_ta125
+RIT1.TA,ריט 1,ריט1,Reit 1 Ltd,ILA,ILS,4367653376.0,10659614.0,1,0,0,,Real Estate,REIT - Diversified,real_estate,wikipedia_ta125
+ELTR.TA,אלקטרה,,Electra Limited,ILA,ILS,8526423552.0,10524596.0,1,0,0,,Industrials,Engineering & Construction,other,wikipedia_ta125
+MSKE.TA,משק אנרגיה,,Meshek Energy - Renewable Energies Ltd.,ILA,ILS,7249508352.0,10417033.0,1,0,0,,Utilities,Utilities - Renewable,other,wikipedia_ta125
+ARPT.TA,איירפורט סיטי,,Airport City Ltd.,ILA,ILS,5757873664.0,10316501.0,1,0,0,,Real Estate,Real Estate Services,real_estate,wikipedia_ta125
+QLTU.TA,קווליטאו,,Qualitau Ltd,ILA,USD,1562112768.0,10292109.0,1,0,0,,Technology,Semiconductor Equipment & Materials,other,wikipedia_ta125
+ISCN.TA,ישראל קנדה,,Israel Canada (T.R) Ltd,ILA,ILS,4516127744.0,10175986.0,1,0,0,,Real Estate,Real Estate - Development,real_estate,wikipedia_ta125
+VRDS.TA,ורידיס,,Veridis Environment Ltd,ILA,ILS,7206398976.0,10145518.0,1,0,0,,Industrials,Waste Management,other,wikipedia_ta125
+RMON.TA,רימון שירותי ייעוץ וניהול,רימון,Rimon Consulting & Management Services Ltd.,ILA,ILS,4610177024.0,10048585.0,1,0,0,,Industrials,Engineering & Construction,other,wikipedia_ta125
+ENOG.TA,אנרג'יאן,אנרגיאן,Energean plc,ILA,USD,5579536896.0,9971536.0,1,0,0,,Energy,Oil & Gas E&P,other,wikipedia_ta125
+HLAN.TA,חילן,,Hilan Ltd.,ILA,ILS,5568853504.0,9833618.0,1,0,0,,Technology,Information Technology Services,other,wikipedia_ta125
+PTNR.TA,פרטנר תקשורת,פרטנר,Partner Communications Company Ltd.,ILA,ILS,6741326336.0,9765042.0,1,0,1,PTNR,Communication Services,Telecom Services,other,wikipedia_ta125
+KSTN.TA,קיסטון אינפרא,קיסטון;קיסטון ריט;קיסטון תשתיות,Keystone Infra Ltd,ILA,ILS,3960431616.0,9745891.0,1,0,0,,Real Estate,REIT - Specialty,real_estate,wikipedia_ta125
+DIMRI.TA,י.ח. דמרי בניה ופיתוח,דמרי,Y.H. Dimri Construction & Development Ltd,ILA,ILS,8604736512.0,9504454.0,1,0,0,,Consumer Cyclical,Residential Construction,other,wikipedia_ta125
+ARYT.TA,ארית תעשיות,ארית,Aryt Industries Ltd.,ILA,ILS,1412451840.0,9079866.0,1,0,0,,Industrials,Aerospace & Defense,other,wikipedia_ta125
+FTAL.TA,מלונות פתאל,פתאל,Fattal Holdings (1998) Ltd,ILA,ILS,10750915584.0,9077440.0,1,0,0,,Consumer Cyclical,Lodging,other,wikipedia_ta125
+GILT.TA,גילת רשתות לווין,גילת,Gilat Satellite Networks Ltd.,ILA,USD,1961175168.0,8622564.0,1,0,1,GILT,Technology,Communication Equipment,other,wikipedia_ta125
+SCOP.TA,קבוצת סקופ מתכות,סקופ,Scope Metals Group Ltd.,ILA,ILS,3784428544.0,8579428.0,1,0,0,,Industrials,Industrial Distribution,other,wikipedia_ta125
+MISH.TA,מבטח שמיר אחזקות,מבטח שמיר,Mivtach Shamir Holdings Ltd,ILA,ILS,3767949056.0,8469578.0,1,0,0,,Financial Services,Asset Management,other,wikipedia_ta125
+TLSY.TA,טלסיס,,Telsys Ltd.,ILA,USD,3108252160.0,8273762.0,0,0,0,,Technology,Electronics & Computer Distribution,other,manual
+ASHG.TA,אשטרום,קבוצת אשטרום,Ashtrom Group Ltd.,ILA,ILS,6381676544.0,8067448.0,1,0,0,,Real Estate,Real Estate - Development,real_estate,wikipedia_ta125
+ELCRE.TA,"אלקטרה נדל""ן",,Electra Real Estate Ltd.,ILA,USD,1378059776.0,8049424.0,1,0,0,,Real Estate,Real Estate Services,real_estate,wikipedia_ta125
+PRTC.TA,פריורטק,,Priortech Ltd,ILA,USD,3008339968.0,7993072.0,1,0,0,,Technology,Electronic Components,other,wikipedia_ta125
+AURA.TA,אאורה השקעות,אאורה,Aura Investments Ltd.,ILA,ILS,5082797056.0,7972446.0,1,0,0,,Real Estate,Real Estate - Development,real_estate,wikipedia_ta125
+DNYA.TA,דניה סיבוס,דניה,Danya Cebus Ltd.,ILA,ILS,3579580672.0,7965357.0,1,0,0,,Industrials,Engineering & Construction,other,wikipedia_ta125
+AFHL.TA,אפקון החזקות,אפקון,Afcon Holdings Ltd,ILA,ILS,3406417408.0,7871947.0,0,0,0,,Technology,Electronic Components,other,manual
+RMLI.TA,רמי לוי שיווק השקמה,רמי לוי,Rami Levi Chain Stores Hashikma Marketing 2006 Ltd,ILA,ILS,4616198144.0,7842345.0,1,0,0,,Consumer Defensive,Grocery Stores,other,wikipedia_ta125
+SLARL.TA,סלע קפיטל,"סלע;סלע נדל""ן",Sella Capital Real Estate Ltd.,ILA,ILS,2174310144.0,7803000.0,1,0,0,,Real Estate,REIT - Diversified,real_estate,wikipedia_ta125
+RPOL.TA,אר פי אופטיקל לאב,אר פי אופטיקל,RP Optical Lab Ltd,ILA,USD,2940334848.0,7633656.0,1,0,0,,Technology,Electronic Components,other,wikipedia_ta125
+CEL.TA,סלקום,,Cellcom Israel Ltd.,ILA,ILS,5763581440.0,7583759.0,1,0,0,,Communication Services,Telecom Services,other,wikipedia_ta125
+GVYM.TA,גב-ים,גב ים,Gav-Yam Lands Corp. Ltd,ILA,ILS,8415812608.0,7512727.0,1,0,0,,Real Estate,Real Estate - Development,real_estate,wikipedia_ta125
+ISRA.TA,ישראמקו,ישראמקו נגב,Isramco Negev 2 Limited Partnership,ILA,USD,5404166144.0,7274402.0,1,0,0,,Energy,Oil & Gas E&P,other,wikipedia_ta125
+ECNR.TA,אקונרג'י,אקונרגי,Econergy Ltd,ILA,EUR,4833550848.0,7186018.0,1,0,0,,Utilities,Utilities - Renewable,other,wikipedia_ta125
+RATI.TA,רציו אנרגיות,רציו,Ratio Energies - Limited Partnership,ILA,USD,5311674880.0,7143699.0,1,0,0,,Energy,Oil & Gas E&P,other,wikipedia_ta125
+ONE.TA,וואן טכנולוגיות,וואן,One Software Technologies Ltd,ILA,ILS,5248996352.0,6893733.0,1,0,0,,Technology,Software - Application,other,wikipedia_ta125
+IES.TA,איי.אי.אס החזקות,איי אי אס,I.E.S Holdings Ltd,ILA,ILS,4129080832.0,6805350.0,1,0,0,,Real Estate,Real Estate Services,real_estate,wikipedia_ta125
+IDIN.TA,איי.די.איי. חברה לביטוח,איי די איי;ביטוח ישיר,I.D.I. Insurance Company Ltd.,ILA,ILS,3754669568.0,6793602.0,1,0,0,,Financial Services,Insurance - Diversified,insurance,wikipedia_ta125
+TDHR.TA,קבוצת תדהר,תדהר,Tidhar Group Ltd.,ILA,ILS,7954942976.0,6769212.0,0,0,0,,Real Estate,Real Estate - Development,real_estate,manual
+FOX.TA,פוקס-ויזל,פוקס,Fox-Wizel Ltd.,ILA,ILS,4254574080.0,6458130.0,1,0,0,,Consumer Cyclical,Apparel Manufacturing,other,wikipedia_ta125
+ARF.TA,בית זיקוק אשדוד,זיקוק אשדוד,Ashdod Refinery Ltd,ILA,USD,1885316352.0,6316221.0,0,0,0,,Energy,Oil & Gas Refining & Marketing,other,manual
+FORTY.TA,פורמולה מערכות,פורמולה,Formula Systems (1985) Ltd.,ILA,USD,5397803008.0,6116000.0,1,0,1,FORTY,Technology,Information Technology Services,other,wikipedia_ta125
+MRIN.TA,מור בית השקעות,מור;מור השקעות,Y.D. More Investments Ltd,ILA,ILS,2920890368.0,5998569.0,1,0,0,,Financial Services,Asset Management,other,wikipedia_ta125
+GCT.TA,ג'י סיטי,גי סיטי,G City Ltd,ILA,ILS,1865310592.0,5876133.0,0,0,0,,Real Estate,Real Estate - Diversified,real_estate,manual
+ARGO.TA,ארגו פרופרטיז אן.וי.,ארגו;ארגו פרופרטיז,ARGO Properties N.V.,ILA,EUR,2816752896.0,5500712.0,1,0,0,,Real Estate,Real Estate Services,real_estate,wikipedia_ta125
+IBI.TA,IBI בית השקעות,אי בי איי,I.B.I. Investment House Ltd,ILA,ILS,5757830656.0,5492002.0,1,0,0,,Financial Services,Asset Management,other,wikipedia_ta125
+AZRM.TA,אזורים,,"Azorim-Investment, Development & Construction Co. Ltd",ILA,ILS,3418339328.0,4896679.0,1,0,0,,Consumer Cyclical,Residential Construction,other,wikipedia_ta125
+INRM.TA,אינרום,,Inrom Construction Industries Ltd,ILA,ILS,3702773248.0,4893430.0,1,0,0,,Basic Materials,Building Materials,other,wikipedia_ta125
+AMRM.TA,עמרם אברהם חברה לבנין,עמרם אברהם,Amram Avraham Construction Company Ltd,ILA,ILS,2910249984.0,4855298.0,1,0,0,,Real Estate,Real Estate Services,real_estate,wikipedia_ta125
+NTML.TA,נטו מלינדה סחר,נטו מלינדה,Neto Malinda Trading Ltd.,ILA,ILS,2347122432.0,4799268.0,1,0,0,,Consumer Defensive,Packaged Foods,other,wikipedia_ta125
+AFRE.TA,אפריקה ישראל מגורים,אפריקה מגורים,Africa Israel Residences Ltd,ILA,ILS,2841713152.0,4617888.0,1,0,0,,Real Estate,Real Estate - Development,real_estate,wikipedia_ta125
+WESR.TA,ווישור גלובלטק,ווישור,Wesure Global Tech Ltd,ILA,ILS,2435187456.0,4495856.0,1,0,0,,Financial Services,Insurance - Property & Casualty,insurance,wikipedia_ta125
+DANE.TA,קבוצת דנאל,דנאל,Danel (Adir Yeoshua) Ltd,ILA,ILS,2720269312.0,4444238.0,1,0,0,,Healthcare,Medical Care Facilities,other,wikipedia_ta125
+ILDC.TA,,,Land Development of Nimrodi Group Ltd.,ILA,ILS,1649828480.0,4416696.0,0,0,0,,Real Estate,Real Estate Services,real_estate,yahoo
+ISRO.TA,ישרוטל,,Isrotel Ltd.,ILA,ILS,8123623424.0,4362363.0,1,0,0,,Consumer Cyclical,Lodging,other,wikipedia_ta125
+AFPR.TA,אפי נכסים,אפי,AFI Properties Ltd.,ILA,ILS,7471704064.0,4306491.0,1,0,0,,Real Estate,Real Estate Services,real_estate,wikipedia_ta125
+YHNF.TA,רשת יוחננוף,יוחננוף,M.Yochananof and Sons (1988) Ltd,ILA,ILS,4786788864.0,4137599.0,1,0,0,,Consumer Defensive,Grocery Stores,other,wikipedia_ta125
+BLSR.TA,"רבוע כחול נדל""ן",רבוע כחול,Blue Square Real Estate Ltd,ILA,ILS,3815898112.0,4092675.0,1,0,0,,Real Estate,Real Estate Services,real_estate,wikipedia_ta125
+LBRA.TA,ליברה ביטוח,ליברה,Libra Insurance Company Ltd,ILA,ILS,1379447296.0,3925176.0,0,0,0,,Financial Services,Insurance - Property & Casualty,insurance,manual
+SBEN.TA,שיכון ובינוי אנרגיה,,Shikun & Binui Energy Ltd,ILA,ILS,3966096384.0,3883671.0,1,0,0,,Utilities,Utilities - Renewable,other,wikipedia_ta125
+DUNI.TA,דוניץ אחים,דוניץ,Duniec Bros. Ltd,ILA,ILS,1648827904.0,3883248.0,0,0,0,,Consumer Cyclical,Residential Construction,other,manual
+EQTL.TA,אקויטל,,Equital Ltd.,ILA,ILS,3836663808.0,3877848.0,1,0,0,,Energy,Oil & Gas E&P,other,wikipedia_ta125
+BLDI.TA,בלדי,,Baladi Ltd,ILA,ILS,2404132096.0,3848750.0,0,0,0,,Consumer Defensive,Packaged Foods,other,manual
+LAHAV.TA,להב אל.אר,להב,Lahav LR Real Estate Ltd,ILA,ILS,3638928128.0,3836222.0,1,0,0,,Consumer Cyclical,Specialty Retail,other,wikipedia_ta125
+ECP.TA,אלקטרה מוצרי צריכה,,Electra Consumer Products (1970) Ltd,ILA,ILS,1326699008.0,3818963.0,0,0,0,,Technology,Consumer Electronics,other,manual
+CRSM.TA,קרסו מוטורס,קרסו,Carasso Motors Ltd.,ILA,ILS,2471301632.0,3797891.0,1,0,0,,Consumer Cyclical,Auto & Truck Dealerships,other,wikipedia_ta125
+SMSH.TA,סמארט שוטר,,Smart Shooter Ltd.,ILA,USD,988145472.0,3671552.0,0,0,0,,Industrials,Aerospace & Defense,other,manual
+SMT.TA,"סאמיט אחזקות נדל""ן",סאמיט,Summit Real Estate Holdings Ltd,ILA,ILS,2911355648.0,3616809.0,1,0,0,,Real Estate,Real Estate Services,real_estate,wikipedia_ta125
+ARIN.TA,,,Ari Real Estate (Arena) Investment Ltd,ILA,ILS,1940719232.0,3613637.0,0,0,0,,Real Estate,Real Estate Services,real_estate,yahoo
+DLEA.TA,דלק רכב,,Delek Automotive Systems Ltd,ILA,ILS,1707746560.0,3537338.0,0,0,0,,Consumer Cyclical,Auto & Truck Dealerships,other,manual
+ISRS.TA,ישרס,,Isras Investment Company Ltd,ILA,ILS,3826343936.0,3525256.0,1,0,0,,Real Estate,Real Estate Services,real_estate,wikipedia_ta125
+PRSK.TA,פרשקובסקי,,Prashkovsky Investments and Construction Ltd.,ILA,ILS,2513705216.0,3446158.0,1,0,0,,Real Estate,Real Estate - Development,real_estate,wikipedia_ta125
+ANLT.TA,אנליסט,,Analyst I.M.S. Investment Management Services Ltd,ILA,ILS,1497543296.0,3439338.0,0,0,0,,Financial Services,Asset Management,other,manual
+SOLR.TA,,,Solaer Renewable Energies Ltd,ILA,ILS,2122164480.0,3346059.0,0,0,0,,Technology,Solar,other,yahoo
+ELCO.TA,אלקו,,Elco Ltd.,ILA,ILS,2987732224.0,3254464.0,1,0,0,,Industrials,Conglomerates,other,wikipedia_ta125
+HIPR.TA,היפר גלובל,,Hiper Global Ltd.,ILA,USD,1709499648.0,3215048.0,0,0,0,,Technology,Computer Hardware,other,manual
+KMDA.TA,קמהדע,,Kamada Ltd.,ILA,USD,1409862656.0,3182838.0,0,0,1,KMDA,Healthcare,Drug Manufacturers - Specialty & Generic,other,manual
+ACRO.TA,קבוצת אקרו,אקרו,Kvutzat Acro Ltd,ILA,ILS,2452975616.0,3177622.0,1,0,0,,Real Estate,Real Estate - Development,real_estate,wikipedia_ta125
+TATT.TA,טאט טכנולוגיות,טאט,TAT Technologies Ltd.,ILA,USD,1319310848.0,3173194.0,0,0,1,TATT,Industrials,Aerospace & Defense,other,manual
+ORON.TA,קבוצת אורון,אורון,Oron Group Investments & Holdings Ltd,ILA,ILS,2522742272.0,3077939.0,0,0,0,,Industrials,Engineering & Construction,other,manual
+ACKR.TA,קבוצת אקרשטיין,אקרשטיין,Ackerstein Group Ltd,ILA,ILS,1878138112.0,3058313.0,1,0,0,,Basic Materials,Building Materials,other,wikipedia_ta125
+DLAS.TA,,,Delek Property Development Ltd,ILA,,1143009024.0,3045000.0,0,0,0,,Real Estate,Real Estate - Development,real_estate,yahoo
+BWAY.TA,בריינסוויי,,BrainsWay Ltd.,ILA,USD,1476077056.0,2999606.0,0,0,1,BWAY,Healthcare,Medical Devices,other,manual
+SOFW.TA,סופוויב,,SofWave Medical Ltd.,ILA,USD,1229462272.0,2990759.0,0,0,0,,Healthcare,Medical Devices,other,manual
+PTBL.TA,חברה לנכסים ולבנין,נכסים ובנין,Property & Building Corp. Ltd.,ILA,ILS,2104849152.0,2945011.0,1,0,0,,Real Estate,Real Estate - Diversified,real_estate,wikipedia_ta125
+LAPD.TA,לפידות קפיטל,לפידות,Lapidoth Capital Ltd,ILA,ILS,4435245056.0,2799015.0,1,0,0,,Industrials,Engineering & Construction,other,wikipedia_ta125
+TMRP.TA,תמר פטרוליום,תמר,Tamar Petroleum Ltd,ILA,USD,2447753472.0,2796017.0,1,0,0,,Energy,Oil & Gas E&P,other,wikipedia_ta125
+DELG.TA,דלתא גליל תעשיות,דלתא גליל,Delta Galil Industries Ltd.,ILA,USD,4587283968.0,2759393.0,1,0,0,,Consumer Cyclical,Apparel Manufacturing,other,wikipedia_ta125
+ALTF.TA,אלטשולר שחם פיננסים,אלטשולר שחם;אלטשולר,Altshuler Shaham Finance Ltd,ILA,ILS,1152578560.0,2759321.0,0,0,0,,Financial Services,Asset Management,other,manual
+MLTH.TA,מלם תים,,Malam-Team Holdings Ltd,ILA,ILS,1138160896.0,2659888.0,0,0,0,,Technology,Information Technology Services,other,manual
+UNMI.TA,יוניברסל מוטורס ישראל,יוניברסל,Universal Motors Israel Ltd,ILA,ILS,,2462739.0,1,0,0,,,,,wikipedia_ta125
+ASHO.TA,אשות אשקלון,אשות,Ashot Ashkelon Industries Ltd.,ILA,ILS,1571095168.0,2386987.0,0,0,0,,Industrials,Aerospace & Defense,other,manual
+PTCH.TA,,,Israel Petrochemical Enterprises Ltd.,ILA,ILS,676457280.0,2345719.0,0,0,0,,Basic Materials,Chemicals,other,yahoo
+PCBT.TA,פי.סי.בי טכנולוגיות,פי סי בי,P.C.B. Technologies Ltd,ILA,USD,1030359232.0,2249609.0,0,0,0,,Technology,Electronic Components,other,manual
+ELMR.TA,אל-מור,אל מור,El-Mor Electric Installation & Services (1986) Ltd.,ILA,ILS,959185792.0,2090276.0,0,0,0,,Industrials,Engineering & Construction,other,manual
+ISHO.TA,,,Isras Holdings Ltd,ILA,ILS,2379386112.0,2044722.0,0,0,0,,Real Estate,Real Estate Services,real_estate,yahoo
+ISHI.TA,מספנות ישראל,,Israel Shipyards Industries Ltd,ILA,ILS,2439000064.0,2029150.0,1,0,0,,Basic Materials,Building Materials,other,wikipedia_ta125
+PNRG.TA,פיינרג'י,,Phinergy Ltd.,ILA,ILS,391918048.0,2002056.0,0,0,0,,Industrials,Electrical Equipment & Parts,other,manual
+DIFI.TA,דיירקט פיננסים,,Direct Finance of Direct Group (2006) Ltd,ILA,ILS,1756794112.0,1933413.0,0,0,0,,Financial Services,Credit Services,other,manual
+OPK.TA,אופקו הלת',אופקו,"OPKO Health, Inc.",ILA,USD,3761494528.0,1890282.0,1,0,1,OPK,Healthcare,Diagnostics & Research,other,wikipedia_ta125
+PRIM.TA,פריים אנרג'י,,Prime Energy P.E. Ltd,ILA,ILS,1559084672.0,1777716.0,0,0,0,,Utilities,Utilities - Renewable,other,manual
+BGRA.TA,,,Bagira M. Holdings Ltd.,ILA,,,1677159.0,0,0,0,,Industrials,Aerospace & Defense,other,yahoo
+AMPA.TA,אמפא,,Ampa Ltd,ILA,ILS,3533643008.0,1619570.0,1,0,0,,Industrials,Conglomerates,other,wikipedia_ta125
+GLTL.TA,גילת טלקום,,Gilat Telecom Global Ltd,ILA,ILS,250152976.0,1597413.0,0,0,0,,Communication Services,Telecom Services,other,manual
+RTLS.TA,ריטיילורס,,Retailors Ltd,ILA,ILS,719566016.0,1593993.0,0,0,0,,Consumer Cyclical,Apparel Retail,other,manual
+JEEN.TA,,,Jeen AI Technologies Ltd,ILA,ILS,262157264.0,1584749.0,0,0,0,,Technology,Software - Infrastructure,other,yahoo
+VILR.TA,וילאר אינטרנשיונל,וילאר,Villar International Ltd.,ILA,ILS,3131961856.0,1551305.0,1,0,0,,Real Estate,Real Estate Services,real_estate,wikipedia_ta125
+LUZN.TA,קבוצת לוזון,לוזון,Amos Luzon Development and Energy Group Ltd,ILA,ILS,2231649792.0,1528810.0,0,0,0,,Industrials,Engineering & Construction,other,manual
+DLTI.TA,דלתא ישראל מותגים,דלתא ישראל,Delta Israel Brands Ltd,ILA,ILS,2703019776.0,1523988.0,1,0,0,,Consumer Cyclical,Apparel Manufacturing,other,wikipedia_ta125
+ATRY.TA,,,Atreyu Capital Markets Ltd,ILA,ILS,847633024.0,1492330.0,0,0,0,,Financial Services,Capital Markets,other,yahoo
+MPP.TA,,,More Provident Funds and Pensions Ltd,ILA,ILS,2074292224.0,1483892.0,0,0,0,,Financial Services,Asset Management,other,yahoo
+TDRN.TA,תדיראן גרופ,תדיראן,Tadiran Group Ltd,ILA,ILS,1715483008.0,1408190.0,0,0,0,,Technology,Consumer Electronics,other,manual
+NAWI.TA,,,Nawi Group Ltd,ILA,ILS,1557258368.0,1328721.0,0,0,0,,Financial Services,Credit Services,other,yahoo
+MNRT.TA,מניבים הריט החדש,מניבים,Menivim - The New Reit Ltd,ILA,ILS,1597394304.0,1297273.0,0,0,0,,Real Estate,REIT - Diversified,real_estate,manual
+TTAM.TA,טיב טעם,,Tiv Taam Holdings 1 Ltd.,ILA,ILS,1377366016.0,1228136.0,0,0,0,,Consumer Defensive,Food Distribution,other,manual
+ARDM.TA,,,Aerodrome Group Ltd,ILA,ILS,121625552.0,1217571.0,0,0,0,,Consumer Defensive,Education & Training Services,other,yahoo
+HGG.TA,קבוצת חג'ג',חג'ג',Hagag Group Real Estate Entrepreneurship Ltd,ILA,ILS,1253625344.0,1209507.0,0,0,0,,Real Estate,Real Estate Services,real_estate,manual
+MGRT.TA,מגוריט,,Megureit Israel Ltd,ILA,ILS,1153886080.0,1208311.0,0,0,0,,Real Estate,REIT - Diversified,real_estate,manual
+PLSN.TA,פלסאון,,Plasson Industries Ltd,ILA,ILS,1396865920.0,1203318.0,0,0,0,,Industrials,Building Products & Equipment,other,manual
+LEVI.TA,לוינשטין הנדסה,לוינשטין,Meshulam Levinstein Contracting & Engineering Ltd.,ILA,ILS,1545173888.0,1177875.0,0,0,0,,Industrials,Engineering & Construction,other,manual
+CRSR.TA,,,Carasso Real Estate Ltd,ILA,ILS,1672513664.0,1133627.0,0,0,0,,Real Estate,Real Estate - Development,real_estate,yahoo
+FBRT.TA,,,FMS Enterprises Migun Ltd,ILA,USD,1293727488.0,1129962.0,0,0,0,,Industrials,Aerospace & Defense,other,yahoo
+ISTA.TA,איסתא,,Issta Ltd,ILA,ILS,1486797824.0,1110718.0,0,0,0,,Consumer Cyclical,Travel Services,other,manual
+WILC.TA,ויליפוד,וילי פוד,G. Willi-Food International Ltd.,ILA,ILS,1110566144.0,1094561.0,0,0,1,WILC,Consumer Defensive,Food Distribution,other,manual
+GAGR.TA,,,Gaon Group Ltd.,ILA,ILS,1014600448.0,1072270.0,0,0,0,,Basic Materials,Steel,other,yahoo
+AMAL.TA,,,Amal Holdings A.D. Ltd.,ILA,ILS,2206400000.0,1055668.0,0,0,0,,Healthcare,Medical Care Facilities,other,yahoo
+PERI.TA,פריון,פריון נטוורק,Perion Network Ltd.,ILA,USD,1160669568.0,1031358.0,0,0,1,PERI,Communication Services,Advertising Agencies,other,manual
+MDTR.TA,מגדלי הים התיכון,,Mediterranean Towers Ltd.,ILA,ILS,1994994688.0,1012339.0,0,0,0,,Real Estate,Real Estate Services,real_estate,manual
+DISI.TA,דיסקונט השקעות,"דסק""ש",Discount Investment Corporation Ltd.,ILA,ILS,1141228544.0,1002850.0,0,0,0,,Real Estate,Real Estate - Development,real_estate,manual
+ELLO.TA,אלומיי,,Ellomay Capital Ltd.,ILA,EUR,908039232.0,976803.0,0,0,1,ELLO,,,,manual
+BRAN.TA,קבוצת ברן,ברן,Baran Group Ltd,ILA,ILS,468377472.0,953055.0,0,0,0,,,,,manual
+RLRE.TA,,,Rami Levy Hashikma Real Estate Ltd,ILA,ILS,2780572160.0,917921.0,0,0,0,,,,,yahoo
+GIVO.TA,גבעות עולם,,Givot Olam Oil Exploration-Limited Partnership (1993),ILA,USD,217545536.0,916641.0,0,0,0,,,,,manual
+AUDC.TA,אודיוקודס,,AudioCodes Ltd.,ILA,USD,843174080.0,892823.0,0,0,1,AUDC,,,,manual
+TPGM.TA,,,TopGum Industries Ltd.,ILA,USD,1254673792.0,845001.0,0,0,0,,,,,yahoo
+CMER.TA,,,C. Mer Industries Ltd.,ILA,ILS,704306368.0,831832.0,0,0,0,,,,,yahoo
+MNIF.TA,,,Menif - Financial Services Ltd,ILA,ILS,1437135488.0,828093.0,0,0,0,,,,,yahoo
+NSTR.TA,נורסטאר,,Norstar Holdings Inc,ILA,ILS,471072512.0,823911.0,0,0,0,,,,,manual
+RAFA.TA,מעבדות רפא,רפא,Rafa Laboratories Ltd.,ILA,ILS,1786137984.0,816868.0,0,0,0,,,,,manual
+NTO.TA,,,Neto M.E Holdings Ltd,ILA,ILS,612336320.0,810874.0,0,0,0,,,,,yahoo
+HGGE.TA,,,Hagag Europe Development Z.F. Ltd,ILA,EUR,959681728.0,774831.0,0,0,0,,,,,yahoo
+THES.TA,,,Thirdeye Systems Ltd,ILA,ILS,168971536.0,773622.0,0,0,0,,,,,yahoo
+PLRM.TA,,,Palram Industries (1990) Ltd,ILA,ILS,983742656.0,739791.0,0,0,0,,,,,yahoo
+STRK.TA,,,Stark Power Ltd,ILA,ILS,59129580.0,710179.0,0,0,0,,,,,yahoo
+TSG.TA,,,TSG IT Advanced Systems Ltd,ILA,ILS,862013376.0,706076.0,0,0,0,,,,,yahoo
+SHVA.TA,"שב""א",שבא,Automatic Bank Services Limited,ILA,ILS,789382208.0,700896.0,0,0,0,,,,,manual
+ALUMA.TA,,,Aluma Infrastructure Fund (2020) Ltd,ILA,ILS,244471808.0,695809.0,0,0,0,,,,,yahoo
+BUFT.TA,,,Buff Technologies Ltd.,ILA,USD,30953508.0,689388.0,0,0,0,,,,,yahoo
+ISRG.TA,ישראייר,,Israir Group Ltd,ILA,USD,419000704.0,664485.0,0,0,0,,,,,manual
+ARD.TA,ארד,,Arad Ltd.,ILA,USD,1110409728.0,622673.0,0,0,0,,,,,manual
+HLMS.TA,הולמס פלייס,,Holmes Place International Ltd,ILA,ILS,574120448.0,613420.0,0,0,0,,,,,manual
+MDIN.TA,מודיעין אנרגיה,,Modiin Energy-Limited Partnership,ILA,USD,170023232.0,611704.0,0,0,0,,,,,manual
+MTRN.TA,מיטרוניקס,,Maytronics Ltd.,ILA,ILS,227823904.0,599206.0,0,0,0,,,,,manual
+LURO.TA,,,Luzon Ronson N.V.,ILA,ILS,2062545536.0,595267.0,0,0,0,,,,,yahoo
+ACCL.TA,,,Accel Solutions Group Ltd,ILA,ILS,315356576.0,577328.0,0,0,0,,,,,yahoo
+ROTS.TA,,,Rotshtein Realestate Ltd,ILA,ILS,1215942144.0,535157.0,0,0,0,,,,,yahoo
+RPAC.TA,,,Rapac Group Ltd,ILA,ILS,1079109760.0,525159.0,0,0,0,,,,,yahoo
+OMCN.TA,,,Omer Construction & Engineering (1986) Ltd.,ILA,ILS,,519750.0,0,0,0,,,,,yahoo
+ARNG.TA,,,Airengy Tech Ltd,ILA,ILS,188775360.0,505146.0,0,0,0,,,,,yahoo
+ALLT.TA,אלוט,,Allot Ltd.,ILA,USD,1375063424.0,503972.0,0,0,1,ALLT,,,,manual
+ETGA.TA,,,ETGA Group Ltd,ILA,ILS,513805696.0,503069.0,0,0,0,,,,,yahoo
+IBIU.TA,,,I.B.I.- Managing & Underwriting Ltd,ILA,ILS,257870336.0,496074.0,0,0,0,,,,,yahoo
+SCC.TA,חלל תקשורת,,Space-Communication Ltd,ILA,USD,134454000.0,487159.0,0,0,0,,,,,manual
+DIPL.TA,,,Diplomat Holdings Ltd,ILA,ILS,1362807680.0,480573.0,0,0,0,,,,,yahoo
+TRLT.TA,,,Tera Light Ltd,ILA,ILS,1223171200.0,477820.0,0,0,0,,,,,yahoo
+KARE.TA,,,Kardan Real Estate Enterprise and Development Ltd,ILA,ILS,803842048.0,477071.0,0,0,0,,,,,yahoo
+NVLG.TA,,,Novolog (Pharm-Up 1966) Ltd,ILA,ILS,434243584.0,475386.0,0,0,0,,,,,yahoo
+SLRM.TA,,,Solrom Holdings Ltd,ILA,ILS,195001216.0,470855.0,0,0,0,,,,,yahoo
+DSIT.TA,,,DSIT Solutions Ltd.,ILA,USD,381000800.0,469603.0,0,0,0,,,,,yahoo
+ZPRS.TA,,,Zephyrus Wing Energies Ltd,ILA,ILS,1647020928.0,465852.0,0,0,0,,,,,yahoo
+TURB.TA,,,Turbogen Ltd,ILA,USD,236236448.0,465156.0,0,0,0,,,,,yahoo
+CILO.TA,,,Cielo-Blu Group Ltd,ILA,ILS,298326336.0,459707.0,0,0,0,,,,,yahoo
+ILDR.TA,,,Israel Land Development - Urban Renewal Ltd,ILA,ILS,442019264.0,456469.0,0,0,0,,,,,yahoo
+JCFN.TA,,,Jacob Finance and Investments Ltd,ILA,ILS,715055168.0,427091.0,0,0,0,,,,,yahoo
+PRDM.TA,,,Prodalim Investments Ltd,ILA,USD,1384428288.0,424905.0,0,0,0,,,,,yahoo
+ALBA.TA,,,Albaad Massuot Yitzhak Ltd,ILA,ILS,573037824.0,421646.0,0,0,0,,,,,yahoo
+SUGT.TA,,,Sugat Group Ltd,ILA,ILS,1034700288.0,406402.0,0,0,0,,,,,yahoo
+RANI.TA,,,Rani Zim Shopping Centers Ltd,ILA,ILS,758782848.0,405499.0,0,0,0,,,,,yahoo
+BIOV.TA,ביו-וויו,ביו וויו,Bio-View Ltd,ILA,ILS,8895104.0,401856.0,0,0,0,,,,,manual
+RSTC.TA,,,Rustic Bakery Limited,ILA,,652443008.0,399582.0,0,0,0,,,,,yahoo
+ELWS.TA,אלקטריאון,,Electreon Wireless Ltd,ILA,ILS,629097984.0,398037.0,0,0,0,,,,,manual
+RGAS.TA,,,R.G.A. Services Israel 1987 Ltd,ILA,ILS,344390528.0,397485.0,0,0,0,,,,,yahoo
+ZUR.TA,,,Zur Shamir Holdings Ltd,ILA,ILS,768581824.0,382597.0,0,0,0,,,,,yahoo
+DRSL.TA,,,Dorsel Ltd,ILA,ILS,442949632.0,376042.0,0,0,0,,,,,yahoo
+GAD.TA,,,Gad-Dairies (Marketing 1992) Ltd.,ILA,ILS,1301287424.0,371825.0,0,0,0,,,,,yahoo
+SRFT.TA,,,Zvi Sarfati & Sons Investments & Constructions Ltd.,ILA,ILS,536244480.0,368620.0,0,0,0,,,,,yahoo
+ALAR.TA,אלרום,,Alarum Technologies Ltd.,ILA,USD,32114368.0,362225.0,0,0,1,ALAR,,,,manual
+IMCO.TA,,,IMCO Industries Ltd.,ILA,ILS,113420496.0,351177.0,0,0,0,,,,,yahoo
+TFRLF.TA,,,Tefron Ltd.,ILA,USD,144806896.0,330206.0,0,0,0,,,,,yahoo
+PSHM.TA,,,Pasternak Shoham Investments Ltd,ILA,,282450016.0,329525.0,0,0,0,,,,,yahoo
+APLP.TA,,,Apollo Power Ltd.,ILA,ILS,133771168.0,320567.0,0,0,0,,,,,yahoo
+ZNKL.TA,,,Zanlakol Ltd,ILA,ILS,789345728.0,320155.0,0,0,0,,,,,yahoo
+AZRT.TA,,,Reit Azorim - H.F Living Ltd,ILA,ILS,473215520.0,319902.0,0,0,0,,,,,yahoo
+ADGR.TA,,,Adgar Investments and Development Ltd,ILA,ILS,708674752.0,314533.0,0,0,0,,,,,yahoo
+CDEV.TA,,,Cohen Development Gas & Oil Ltd.,ILA,USD,1096717952.0,311955.0,0,0,0,,,,,yahoo
+ININ.TA,,,Inter Industries Plus Ltd,ILA,ILS,193847248.0,306012.0,0,0,0,,,,,yahoo
+SHVL.TA,,,Shoval Engineering and Construction Ltd,ILA,ILS,388611552.0,305929.0,0,0,0,,,,,yahoo
+URBC.TA,,,Urbanica (Palo) Retail Ltd,ILA,ILS,1050885184.0,295844.0,0,0,0,,,,,yahoo
+POLP.TA,,,Polyram Plastic Industries Ltd,ILA,USD,850975936.0,295096.0,0,0,0,,,,,yahoo
+TRX.TA,טרמינל איקס,,Terminal X Online Ltd.,ILA,ILS,919471360.0,294626.0,0,0,0,,,,,manual
+ISI.TA,אימג'סאט,,Imagesat International (I.S.I) Ltd,ILA,USD,593466560.0,289154.0,0,0,0,,,,,manual
+VRYX.TA,,,Veloryx Ltd,ILA,ILS,53711960.0,282091.0,0,0,0,,,,,yahoo
+HAMAT.TA,,,Hamat Group Ltd.,ILA,ILS,545993216.0,280895.0,0,0,0,,,,,yahoo
+VCTR.TA,ויקטורי,,Victory Supermarket Chain Ltd,ILA,ILS,571751040.0,274080.0,0,0,0,,,,,manual
+MTRD.TA,,,Meitav Trade Investments Ltd,ILA,ILS,984116032.0,263195.0,0,0,0,,,,,yahoo
+JBNK.TA,בנק ירושלים,,Bank of Jerusalem Ltd.,ILA,ILS,1363107968.0,262385.0,0,0,0,,,,,manual
+DLPR.TA,,,Delek Israel Properties (D.P.) Ltd.,ILA,ILS,977260160.0,258844.0,0,0,0,,,,,yahoo
+SANO1.TA,,,Sano Bruno's Enterprises Ltd,ILA,ILS,3825000192.0,256586.0,0,0,0,,,,,yahoo
+MTLF.TA,,,Matricelf Ltd,ILA,ILS,85381592.0,252683.0,0,0,0,,,,,yahoo
+BHNY.TA,,,Bee-io Honey Ltd.,ILA,ILS,34322744.0,248949.0,0,0,0,,,,,yahoo
+ARAN.TA,,,Aran Research & Development (1982) Ltd.,ILA,ILS,201166288.0,247186.0,0,0,0,,,,,yahoo
+SNFL.TA,,,Sunflower Sustainable Investments Ltd,ILA,ILS,375020736.0,244857.0,0,0,0,,,,,yahoo
+GAON.TA,,,B. Gaon Holdings Ltd.,ILA,ILS,417569984.0,240170.0,0,0,0,,,,,yahoo
+ALRPR.TA,,,Alrov Properties and Lodgings Ltd.,ILA,ILS,6591062528.0,238326.0,0,0,0,,,,,yahoo
+BONS.TA,,,Bonus BioGroup Ltd.,ILA,ILS,210226544.0,232370.0,0,0,0,,,,,yahoo
+EMDV.TA,,,Emilia Development (O.F.G) Ltd.,ILA,ILS,584634752.0,231004.0,0,0,0,,,,,yahoo
+CAST.TA,,,Castro Model Ltd.,ILA,ILS,1247520384.0,228446.0,0,0,0,,,,,yahoo
+INCR.TA,,,InterCure Ltd.,ILA,ILS,225056496.0,227595.0,0,0,0,,,,,yahoo
+KRUR.TA,,,Kerur Holdings Ltd.,ILA,ILS,1003850240.0,220834.0,0,0,0,,,,,yahoo
+MNRV.TA,,,Minrav Group Ltd,ILA,ILS,,220357.0,0,0,0,,,,,yahoo
+OPAL.TA,,,Opal Balance Investments Ltd,ILA,ILS,315387072.0,215352.0,0,0,0,,,,,yahoo
+NTGR.TA,,,Netanel Group Ltd,ILA,ILS,291691776.0,213198.0,0,0,0,,,,,yahoo
+AVSR.TA,,,Avisror and Sons Building and Development Works Ltd,ILA,ILS,3742864384.0,212647.0,0,0,0,,,,,yahoo
+AXN.TA,,,Axon Vision Ltd,ILA,ILS,84077792.0,211646.0,0,0,0,,,,,yahoo
+RSEL.TA,,,RSL Electronics Ltd.,ILA,ILS,93634736.0,211002.0,0,0,0,,,,,yahoo
+MCLL.TA,,,Michlol Finance Ltd,ILA,ILS,689605696.0,210936.0,0,0,0,,,,,yahoo
+MIA.TA,,,Mia Dynamics Motors Ltd,ILA,ILS,81333168.0,210450.0,0,0,0,,,,,yahoo
+TIGBUR.TA,,,Tigbur Group Ltd,ILA,ILS,549249984.0,205785.0,0,0,0,,,,,yahoo
+AVGL.TA,,,Avgol Industries 1953 Ltd,ILA,USD,243122688.0,203228.0,0,0,0,,,,,yahoo
+AVGD.TA,,,Av-Gad Holdings Ltd,ILA,ILS,208501616.0,199950.0,0,0,0,,,,,yahoo
+EPIT.TA,,,Epitomee Medical Ltd,ILA,USD,105649200.0,195724.0,0,0,0,,,,,yahoo
+ELRN.TA,,,Elron Ventures Ltd,ILA,USD,155460880.0,193623.0,0,0,0,,,,,yahoo
+BRIH.TA,,,Rav-Bariach (08) Industries Ltd.,ILA,ILS,524398336.0,193307.0,0,0,0,,,,,yahoo
+PLSM.TA,,,Pulsenmore Ltd.,ILA,ILS,37287308.0,189887.0,0,0,0,,,,,yahoo
+CMDR.TA,,,Computer Direct Group Ltd.,ILA,ILS,1201753728.0,186306.0,0,0,0,,,,,yahoo
+CGEN.TA,,,Compugen Ltd.,ILA,USD,611374080.0,185449.0,0,0,0,,,,,yahoo
+ORNP.TA,,,Orion Retail Properties Ltd,ILA,,80379504.0,182531.0,0,0,0,,,,,yahoo
+PIES.TA,,,Pie Siam Ltd,ILA,ILS,778690496.0,174096.0,0,0,0,,,,,yahoo
+SHGR.TA,,,Shagrir Group Vehicle Services Ltd,ILA,ILS,148161680.0,167462.0,0,0,0,,,,,yahoo
+WLFD.TA,,,Willy-Food Investments Ltd,ILA,ILS,677961024.0,165508.0,0,0,0,,,,,yahoo
+MGDO.TA,,,Megiddo Y.K. Ltd,ILA,ILS,914941376.0,158124.0,0,0,0,,,,,yahoo
+EFCP.TA,,,Effi Capital Nadlan Ltd,ILA,ILS,527946112.0,155097.0,0,0,0,,,,,yahoo
+LBTL.TA,,,A. Libental Holdings Ltd,ILA,ILS,153920240.0,148292.0,0,0,0,,,,,yahoo
+DRTS.TA,,,Alpha Tau Medical Ltd.,ILA,USD,3733343232.0,142304.0,0,0,0,,,,,yahoo
+BKFR.TA,,,Bait Bakfar Ltd,ILA,ILS,978370816.0,141887.0,0,0,0,,,,,yahoo
+NFTA.TA,,,Naphtha Israel Petroleum Corp. Ltd.,ILA,ILS,2515920896.0,141245.0,0,0,0,,,,,yahoo
+KRDI.TA,,,Kardan Israel Ltd.,ILA,ILS,889479680.0,138831.0,0,0,0,,,,,yahoo
+ICHO.TA,,,Israel Canada Hotels Ltd,ILA,ILS,1111119872.0,138040.0,0,0,0,,,,,yahoo
+SADE.TA,,,Sade Real Estate - Y.S. Ltd.,ILA,USD,209018304.0,136553.0,0,0,0,,,,,yahoo
+SHAN.TA,,,Shaniv Paper Industry Ltd,ILA,ILS,576557120.0,136088.0,0,0,0,,,,,yahoo
+MLRN.TA,,,M.L.R.N Projects and Trading Ltd,ILA,ILS,316946944.0,136071.0,0,0,0,,,,,yahoo
+TOEN.TA,,,Tomer Energy Royalties (2012) Ltd,ILA,USD,275213760.0,135054.0,0,0,0,,,,,yahoo
+MDPR.TA,,,Medipower (Overseas) Public Co. Limited,ILA,USD,298487200.0,134285.0,0,0,0,,,,,yahoo
+GKL.TA,,,Global Knafaim Leasing Ltd,ILA,USD,277364736.0,133829.0,0,0,0,,,,,yahoo
+SHOM.TA,,,E.N. Shoham Business Ltd,ILA,ILS,271791936.0,131770.0,0,0,0,,,,,yahoo
+PEAX.TA,,,Peax Solutions Ltd,ILA,ILS,254952096.0,130507.0,0,0,0,,,,,yahoo
+HMGS.TA,,,HomeBiogas Ltd,ILA,USD,21620696.0,128214.0,0,0,0,,,,,yahoo
+EVGN.TA,,,Evogene Ltd.,ILA,USD,18803674.0,128109.0,0,0,0,,,,,yahoo
+AVER.TA,,,Averbuch Formica Center Ltd.,ILA,ILS,170100000.0,126896.0,0,0,0,,,,,yahoo
+TNDO.TA,,,Tondo Smart Ltd,ILA,ILS,127731296.0,126202.0,0,0,0,,,,,yahoo
+GOLD.TA,,,The Gold Bond Group Ltd.,ILA,ILS,912676224.0,125142.0,0,0,0,,,,,yahoo
+GSFI.TA,,,Gan Shmuel Foods Ltd.,ILA,USD,285420000.0,124344.0,0,0,0,,,,,yahoo
+BOTI.TA,,,Bonei Hatichon Civil Engineering & Infrastructures Ltd.,ILA,ILS,662248064.0,123799.0,0,0,0,,,,,yahoo
+ORIN.TA,,,Orian Sh.M. Ltd.,ILA,ILS,432022944.0,122469.0,0,0,0,,,,,yahoo
+KLIL.TA,,,Klil Industries Ltd,ILA,ILS,384394240.0,121792.0,0,0,0,,,,,yahoo
+DRAL.TA,,,Dor Alon Energy In Israel (1988) Ltd,ILA,ILS,2736431104.0,120511.0,0,0,0,,,,,yahoo
+GLRS.TA,,,Globrands Ltd.,ILA,ILS,108859608.0,117128.0,0,0,0,,,,,yahoo
+ORAD.TA,,,Orad Ltd,ILA,ILS,170469760.0,116859.0,0,0,0,,,,,yahoo
+SNCM.TA,,,Suny Cellular Communication Ltd,ILA,ILS,307277952.0,116732.0,0,0,0,,,,,yahoo
+NXTM.TA,,,Nextcom Ltd.,ILA,ILS,154460832.0,115948.0,0,0,0,,,,,yahoo
+ELDT.TA,,,Eldan Transportation LTD,ILA,ILS,612562880.0,115630.0,0,0,0,,,,,yahoo
+AMRK.TA,,,Amir Marketing and Investments in Agriculture Ltd,ILA,ILS,500413440.0,114607.0,0,0,0,,,,,yahoo
+ISOP.TA,,,"Israel Opportunity - Energy Resources, LP",ILA,USD,67102300.0,113299.0,0,0,0,,,,,yahoo
+MSVT.TA,,,Massivit 3D Printing Technologies Ltd,ILA,USD,35209392.0,112670.0,0,0,0,,,,,yahoo
+AMAN.TA,,,Amanet Management & Systems Ltd.,ILA,ILS,80656816.0,107296.0,0,0,0,,,,,yahoo
+ALMA.TA,,,Almogim Holdings Ltd,ILA,ILS,393824160.0,105146.0,0,0,0,,,,,yahoo
+UNIT.TA,,,"Unitronics (1989) (R""G) Ltd",ILA,ILS,269776416.0,105095.0,0,0,0,,,,,yahoo
+SRAC.TA,,,S.R. Accord Ltd.,ILA,ILS,712118464.0,99334.0,0,0,0,,,,,yahoo
+KAFR.TA,,,Kafrit Industries (1993) Ltd,ILA,ILS,668657920.0,97642.0,0,0,0,,,,,yahoo
+PAYT.TA,,,Payton Industries Ltd,ILA,USD,389921600.0,96065.0,0,0,0,,,,,yahoo
+GEFR.TA,,,Geffen Residence & Renewal Ltd,ILA,ILS,324169728.0,95278.0,0,0,0,,,,,yahoo
+BVC.TA,,,BATM Advanced Communications Ltd.,ILA,USD,159157296.0,92306.0,0,0,0,,,,,yahoo
+SHNP.TA,,,E. Schnapp & Co. Works Ltd,ILA,ILS,238664064.0,90766.0,0,0,0,,,,,yahoo
+BITC.TA,,,Bitcore Capital Group Ltd,ILA,ILS,12431962.0,89462.0,0,0,0,,,,,yahoo
+RTSN.TA,,,Rotem Shani Entrepreneurship and Investment Ltd.,ILA,ILS,429075552.0,87273.0,0,0,0,,,,,yahoo
+GIXI.TA,,,Gix Internet Ltd.,ILA,ILS,30107600.0,85369.0,0,0,0,,,,,yahoo
+PRPD.TA,,,Propdo Ltd,ILA,ILS,174616560.0,85351.0,0,0,0,,,,,yahoo
+STG.TA,,,STG International Ltd.,ILA,ILS,159148000.0,85286.0,0,0,0,,,,,yahoo
+ARBE.TA,,,Arbe Robotics Ltd.,ILA,USD,189791328.0,85091.0,0,0,0,,,,,yahoo
+BSTG.TA,,,BST GROUP E.A.W. LTD,ILA,ILS,2576756736.0,84632.0,0,0,0,,,,,yahoo
+ABRA.TA,,,Abra Information Technologies Ltd.,ILA,ILS,434741664.0,84315.0,0,0,0,,,,,yahoo
+ELAD.TA,,,Elad Software Systems Ltd,ILA,ILS,617925568.0,82533.0,0,0,0,,,,,yahoo
+ZOOZ.TA,,,ZOOZ Strategy Ltd.,ILA,USD,161794080.0,82517.0,0,0,0,,,,,yahoo
+MSBI.TA,,,Hamashbir 365 Ltd,ILA,ILS,110680064.0,81774.0,0,0,0,,,,,yahoo
+TIGI.TA,,,Tigi Ltd.,ILA,ILS,27841332.0,79633.0,0,0,0,,,,,yahoo
+AGRD.TA,,,Autonomous Guard Ltd,ILA,USD,46790896.0,78422.0,0,0,0,,,,,yahoo
+WILK.TA,,,Wilk Technologies Ltd,ILA,ILS,21255846.0,76502.0,0,0,0,,,,,yahoo
+GOSS.TA,,,G1 Secure Solutions Ltd,ILA,ILS,911494080.0,76390.0,0,0,0,,,,,yahoo
+ODYS.TA,,,Odysight.ai Inc.,ILA,USD,131426672.0,76242.0,0,0,0,,,,,yahoo
+MSLA.TA,,,Maslavi Construction Company Ltd,ILA,ILS,269434688.0,75674.0,0,0,0,,,,,yahoo
+RZR.TA,,,Razor Labs,ILA,ILS,226819952.0,74185.0,0,0,0,,,,,yahoo
+BRND.TA,,,Brand Group (M.G) Ltd,ILA,ILS,170413888.0,73838.0,0,0,0,,,,,yahoo
+ABOU.TA,,,Abou Family Residence Ltd,ILA,ILS,198543520.0,73476.0,0,0,0,,,,,yahoo
+SOLA.TA,,,Sola Renewable Energies Ltd,ILA,,233195984.0,72799.0,0,0,0,,,,,yahoo
+OVRS.TA,,,Overseas Commerce Ltd.,ILA,ILS,326188800.0,71591.0,0,0,0,,,,,yahoo
+FGAS.TA,,,Fire & Gas Detection Technologies Ltd,ILA,USD,205598304.0,69424.0,0,0,0,,,,,yahoo
+MEDN.TA,,,Mehadrin Ltd,ILA,ILS,998281472.0,69310.0,0,0,0,,,,,yahoo
+KNFM.TA,,,Knafaim Holdings Ltd.,ILA,USD,305085632.0,68015.0,0,0,0,,,,,yahoo
+BLRN.TA,,,BladeRanger Ltd,ILA,ILS,19637824.0,67106.0,0,0,0,,,,,yahoo
+VTNA.TA,,,Vitania Ltd.,ILA,ILS,741402880.0,65693.0,0,0,0,,,,,yahoo
+BRMG.TA,,,Brimag Digital Age Ltd.,ILA,ILS,192295648.0,65258.0,0,0,0,,,,,yahoo
+SPNTC.TA,,,N.R. Spuntech Industries Ltd.,ILA,ILS,171945088.0,65199.0,0,0,0,,,,,yahoo
+CRML.TA,,,Carmel Corp Ltd.,ILA,ILS,261381024.0,65054.0,0,0,0,,,,,yahoo
+HOD.TA,,,Hod Assaf Industries Ltd.,ILA,ILS,384938464.0,64644.0,0,0,0,,,,,yahoo
+BRAM.TA,,,Bram Industries Ltd.,ILA,ILS,33837068.0,63757.0,0,0,0,,,,,yahoo
+MRG.TA,,,Multi Retail Group Ltd,ILA,ILS,188617632.0,62341.0,0,0,0,,,,,yahoo
+CNDO.TA,,,Cando Drones Ltd.,ILA,,75703504.0,62161.0,0,0,0,,,,,yahoo
+LUDN.TA,,,Ludan Engineering Co. Ltd,ILA,ILS,109127160.0,60479.0,0,0,0,,,,,yahoo
+TANM.TA,,,T&M Group Ltd,ILA,ILS,878835072.0,60450.0,0,0,0,,,,,yahoo
+ILX.TA,,,Ilex Medical Ltd,ILA,ILS,481424256.0,59855.0,0,0,0,,,,,yahoo
+ALL.TA,,,AllTrade Recycling Ltd,ILA,ILS,506775008.0,58464.0,0,0,0,,,,,yahoo
+RTPT.TA,,,Ratio Petroleum Energy - Limited Partnership,ILA,USD,64496432.0,58061.0,0,0,0,,,,,yahoo
+RLCO.TA,,,Ralco Agencies Ltd,ILA,ILS,160133184.0,58046.0,0,0,0,,,,,yahoo
+CANF.TA,,,Can-Fite BioPharma Ltd.,ILA,USD,18613696.0,56117.0,0,0,0,,,,,yahoo
+ORMP.TA,,,Oramed Pharmaceuticals Inc.,ILA,USD,555366912.0,55908.0,0,0,0,,,,,yahoo
+CPPL.TA,,,City People of Rotshtein Group Ltd,ILA,ILS,144710928.0,55421.0,0,0,0,,,,,yahoo
+MSHR.TA,,,Mishorim Real Estate Investments Ltd,ILA,ILS,115401656.0,53033.0,0,0,0,,,,,yahoo
+LUZC.TA,,,Luzon Credit and Finance Ltd,ILA,ILS,207138144.0,52632.0,0,0,0,,,,,yahoo
+CISY.TA,,,CI Systems (Israel) Ltd.,ILA,USD,174014592.0,52484.0,0,0,0,,,,,yahoo
+RIMO.TA,,,Rimoni Industries Ltd.,ILA,ILS,272121536.0,52067.0,0,0,0,,,,,yahoo
+ASGR.TA,,,Aspen Group Ltd.,ILA,ILS,412196096.0,50286.0,0,0,0,,,,,yahoo
+NISA.TA,,,Nissan Medical Industries Ltd,ILA,ILS,84476776.0,50127.0,0,0,0,,,,,yahoo
+RAVD.TA,,,Ravad Ltd,ILA,ILS,229493008.0,48022.0,0,0,0,,,,,yahoo
+ALMY.TA,,,Alma Yesodot Ltd,ILA,ILS,309288704.0,47561.0,0,0,0,,,,,yahoo
+FRSX.TA,,,Foresight Autonomous Holdings Ltd.,ILA,USD,11141571.0,47060.0,0,0,0,,,,,yahoo
+YBOX.TA,,,Ybox Real Estate Ltd.,ILA,ILS,285984064.0,46744.0,0,0,0,,,,,yahoo
+EXPO.TA,,,Export Investment Co. Ltd.,ILA,ILS,717383296.0,46511.0,0,0,0,,,,,yahoo
+GOLF.TA,,,Golf & Co Group Ltd,ILA,ILS,402281088.0,45303.0,0,0,0,,,,,yahoo
+LSCO.TA,,,Lesico Ltd,ILA,ILS,167399984.0,45284.0,0,0,0,,,,,yahoo
+NURI.TA,,,Nur Ink Innovations Ltd,ILA,ILS,34864680.0,44530.0,0,0,0,,,,,yahoo
+TGI.TA,,,Tgi Infrastructures Ltd,ILA,ILS,124475552.0,44368.0,0,0,0,,,,,yahoo
+BKRY.TA,,,Bikurey Hasade Group Ltd,ILA,ILS,604962624.0,43062.0,0,0,0,,,,,yahoo
+BLND.TA,,,Blender Financial Technologies,ILA,ILS,59667144.0,42243.0,0,0,0,,,,,yahoo
+MNIN.TA,,,Mendelson Infrastructures & Industries Ltd.,ILA,ILS,601433280.0,41942.0,0,0,0,,,,,yahoo
+YACO.TA,,,Yacobi Brothers Group (YSB) Ltd,ILA,ILS,171097040.0,41421.0,0,0,0,,,,,yahoo
+AVIA.TA,,,Aviation Links Ltd,ILA,USD,133540208.0,40077.0,0,0,0,,,,,yahoo
+IDMO.TA,,,Idomoo Ltd.,ILA,USD,82988392.0,39336.0,0,0,0,,,,,yahoo
+BLRX.TA,,,BioLineRx Ltd.,ILA,USD,35843156.0,38025.0,0,0,0,,,,,yahoo
+RMN.TA,,,Ram-On Investments and Holdings (1999) Ltd,ILA,ILS,165791744.0,37825.0,0,0,0,,,,,yahoo
+G107.TA,,,Group 107 Ltd,ILA,ILS,11172637.0,36609.0,0,0,0,,,,,yahoo
+SCDX.TA,,,Scodix Ltd.,ILA,USD,36517692.0,36165.0,0,0,0,,,,,yahoo
+BRKT.TA,,,Bareket Capital Ltd,ILA,,166267712.0,35736.0,0,0,0,,,,,yahoo
+GOTO.TA,,,Goto Ltd,ILA,ILS,,35026.0,0,0,0,,,,,yahoo
+SNEL.TA,,,Synel M.L.L Payway Ltd,ILA,ILS,90551296.0,34448.0,0,0,0,,,,,yahoo
+SPGS.TA,,,Supergas Power (2019) Ltd,ILA,ILS,461610528.0,32560.0,0,0,0,,,,,yahoo
+IDNT.TA,,,Identi Healthcare Ltd,ILA,ILS,25333980.0,31908.0,0,0,0,,,,,yahoo
+ELRL.TA,,,Elbit Real Estate Ltd.,ILA,ILS,55120096.0,31175.0,0,0,0,,,,,yahoo
+PLUR.TA,,,Pluri Inc.,ILA,USD,36358476.0,30986.0,0,0,0,,,,,yahoo
+PMVM.TA,,,Pomvom Ltd,ILA,USD,10954117.0,30798.0,0,0,0,,,,,yahoo
+QNCO.TA,,,Y.Z. Queenco Ltd.,ILA,ILS,231266384.0,30407.0,0,0,0,,,,,yahoo
+DANH.TA,,,Dan Hotels Ltd,ILA,ILS,2936217600.0,30353.0,0,0,0,,,,,yahoo
+PRMG.TA,,,Primotec Group Ltd,ILA,ILS,199512528.0,29874.0,0,0,0,,,,,yahoo
+REKA.TA,,,Rekah Pharmaceutical Industry Ltd.,ILA,ILS,119853680.0,29673.0,0,0,0,,,,,yahoo
+PIKA.TA,,,Pika Tech Enterprise Ltd,ILA,,17771940.0,28952.0,0,0,0,,,,,yahoo
+ELSPC.TA,,,Elspec Engineering Ltd,ILA,ILS,73808672.0,28169.0,0,0,0,,,,,yahoo
+RTEN.TA,,,Rotem Energy Mineral (REM) - Limited Partnership,ILA,USD,2121319.0,27978.0,0,0,0,,,,,yahoo
+BOLT.TA,,,BioLight Life Sciences Ltd.,ILA,ILS,24464716.0,27803.0,0,0,0,,,,,yahoo
+TEDE.TA,,,Tedea Technological Development and Automation Ltd.,ILA,ILS,29628154.0,27631.0,0,0,0,,,,,yahoo
+GABY.TA,,,Gabay Group,ILA,ILS,510535552.0,26240.0,0,0,0,,,,,yahoo
+RPCE.TA,,,Rapac Energy Ltd.,ILA,ILS,1938723840.0,25734.0,0,0,0,,,,,yahoo
+MCPL.TA,,,Michpal Technologies Ltd,ILA,ILS,,25669.0,0,0,0,,,,,yahoo
+BLEG.TA,,,Blackedge Ltd,ILA,ILS,560432512.0,25604.0,0,0,0,,,,,yahoo
+ICON.TA,,,iCon Group Ltd,ILA,ILS,356266304.0,25583.0,0,0,0,,,,,yahoo
+AVIV.TA,,,Mordechai Aviv Taasiot Beniyah (1973) Ltd.,ILA,ILS,257815232.0,25570.0,0,0,0,,,,,yahoo
+ANGL.TA,,,Salomon A. Angel Ltd.,ILA,ILS,111059200.0,25154.0,0,0,0,,,,,yahoo
+NXTG.TA,,,Nextage Therapeutics Ltd,ILA,ILS,31047478.0,24288.0,0,0,0,,,,,yahoo
+TECT.TA,,,Tectona Ltd,ILA,USD,49066056.0,24143.0,0,0,0,,,,,yahoo
+MYDS.TA,,,Mydas Real Estate Investments Ltd,ILA,ILS,28348290.0,24082.0,0,0,0,,,,,yahoo
+GLDE.TA,,,Golden Energy Power Ltd,ILA,ILS,41158156.0,23996.0,0,0,0,,,,,yahoo
+SMNR.TA,,,Shemen Yielding Real Estate Ltd,ILA,ILS,505483808.0,23227.0,0,0,0,,,,,yahoo
+LUDT.TA,,,Ludan-Tech Ltd.,ILA,,42641300.0,23192.0,0,0,0,,,,,yahoo
+BBLS.TA,,,Bubbles Intergroup Ltd,ILA,ILS,8007030.0,23050.0,0,0,0,,,,,yahoo
+GRIN.TA,,,Golan Renewable Industries Ltd,ILA,ILS,229729872.0,22898.0,0,0,0,,,,,yahoo
+POLY.TA,,,Polygon Real Estate Ltd,ILA,ILS,267583056.0,22772.0,0,0,0,,,,,yahoo
+UPSL.TA,,,Upsellon Brands Holdings Ltd,ILA,USD,20803640.0,22748.0,0,0,0,,,,,yahoo
+NTNB.TA,,,Netanel Menivim Ltd.,ILA,,101175072.0,22574.0,0,0,0,,,,,yahoo
+CBI.TA,,,Clal Biotechnology Industries Ltd.,ILA,ILS,38427320.0,22386.0,0,0,0,,,,,yahoo
+IPO.TA,,,InPlay Oil Corp.,ILA,CAD,1164046336.0,22102.0,0,0,0,,,,,yahoo
+GRAC.TA,,,Grace Breeding Ltd,ILA,ILS,,21714.0,0,0,0,,,,,yahoo
+PMNT.TA,,,Payment Financial Technologies Ltd,ILA,ILS,179738256.0,20807.0,0,0,0,,,,,yahoo
+ROBO.TA,,,RoboGroup T.E.K. Ltd.,ILA,USD,23117550.0,20776.0,0,0,0,,,,,yahoo
+BVGG.TA,,,Bait Vegag Real Estate Development Ltd,ILA,ILS,249873568.0,20693.0,0,0,0,,,,,yahoo
+BLGO.TA,,,Buligo Capital Ltd,ILA,USD,382045376.0,20597.0,0,0,0,,,,,yahoo
+GNGR.TA,,,Ginegar Plastic Products Ltd.,ILA,ILS,79693776.0,19598.0,0,0,0,,,,,yahoo
+SEMG.TA,,,Seach Medical Group Ltd,ILA,ILS,87091464.0,19141.0,0,0,0,,,,,yahoo
+CNGL.TA,,,Canada Global (T.R) Ltd,ILA,USD,447663808.0,19050.0,0,0,0,,,,,yahoo
+YBRD.TA,,,Y.B Urban Renewal - Residential Development Ltd,ILA,ILS,4762196.0,19015.0,0,0,0,,,,,yahoo
+BRIL.TA,,,Brill Shoe Industries Ltd.,ILA,ILS,69132952.0,18313.0,0,0,0,,,,,yahoo
+GNCL.TA,,,Gencell Ltd,ILA,ILS,20078526.0,17606.0,0,0,0,,,,,yahoo
+SONR.TA,,,Sonol Real Estate And Investments Ltd,ILA,ILS,580597952.0,17418.0,0,0,0,,,,,yahoo
+TGTR.TA,,,Together Pharma Ltd,ILA,ILS,35804072.0,17232.0,0,0,0,,,,,yahoo
+TMIS.TA,,,Themis G.R.E.N. Ltd,ILA,ILS,81996464.0,16937.0,0,0,0,,,,,yahoo
+AMD.TA,,,Amiad Water Systems Ltd.,ILA,USD,237416320.0,16864.0,0,0,0,,,,,yahoo
+FLYS-M.TA,,,Flying Spark Ltd.,ILA,ILS,,16647.0,0,0,0,,,,,yahoo
+RVL.TA,,,Raval ACS Ltd.,ILA,EUR,113721312.0,16500.0,0,0,0,,,,,yahoo
+SFRN.TA,,,Sufrin Holdings Ltd.,ILA,,86647064.0,16476.0,0,0,0,,,,,yahoo
+CPTP.TA,,,Capital Point Ltd.,ILA,ILS,55035404.0,16403.0,0,0,0,,,,,yahoo
+MIFT.TA,,,Millennium Food Tech Limited Partnership,ILA,ILS,11998536.0,16040.0,0,0,0,,,,,yahoo
+RENT.TA,,,Rent It - Residential Reit Ltd,ILA,ILS,,15687.0,0,0,0,,,,,yahoo
+LHIS.TA,,,Lachish Industries Ltd,ILA,ILS,96227328.0,15504.0,0,0,0,,,,,yahoo
+XTLB.TA,,,XTL Biopharmaceuticals Ltd.,ILA,USD,14744781.0,14862.0,0,0,0,,,,,yahoo
+STRG.TA,,,Storage Drop Storage Technologies Ltd,ILA,ILS,3370192.0,14837.0,0,0,0,,,,,yahoo
+SKLN.TA,,,Skyline Investments Inc.,ILA,CAD,28050816.0,14819.0,0,0,0,,,,,yahoo
+RAYG.TA,,,Ray Tlv Group Ltd,ILA,,39984500.0,14795.0,0,0,0,,,,,yahoo
+UTRN.TA,,,Utron Ltd,ILA,ILS,98923200.0,14146.0,0,0,0,,,,,yahoo
+LEOF.TA,,,Lewinsky-Ofer Ltd.,ILA,ILS,131628224.0,14015.0,0,0,0,,,,,yahoo
+FRDN.TA,,,Fridenson Logistic Services Ltd,ILA,ILS,119301704.0,13891.0,0,0,0,,,,,yahoo
+TKUN-M.TA,,,Tikun Olam-Cannbit Pharmaceuticals Ltd,ILA,ILS,1564779.0,13815.0,0,0,0,,,,,yahoo
+HRON.TA,,,Hiron-Trade Investments & Industrial Buildings Ltd,ILA,ILS,996873088.0,13169.0,0,0,0,,,,,yahoo
+AMDA.TA,,,Almeda Ventures Limited Partnership,ILA,USD,47325544.0,13039.0,0,0,0,,,,,yahoo
+GOHO.TA,,,Golden House Ltd,ILA,ILS,157958848.0,12857.0,0,0,0,,,,,yahoo
+LCTX.TA,,,"Lineage Cell Therapeutics, Inc.",ILA,USD,733684544.0,12611.0,0,0,0,,,,,yahoo
+BARI.TA,,,Barak Investment House Ltd,ILA,ILS,22419000.0,12478.0,0,0,0,,,,,yahoo
+CRMT.TA,,,Carmit Candy Industries Ltd.,ILA,ILS,89944424.0,12445.0,0,0,0,,,,,yahoo
+BIMT.TA,,,Bio Meat Foodtech - Limited Partnership,ILA,ILS,39621884.0,12168.0,0,0,0,,,,,yahoo
+INTR.TA,,,Inter Gamma Investment Company Ltd,ILA,ILS,107343952.0,12042.0,0,0,0,,,,,yahoo
+SHMM.TA,,,Shamaym Improve Ltd,ILA,ILS,11919743.0,11506.0,0,0,0,,,,,yahoo
+TOPG.TA,,,Top Group Software Ltd,ILA,ILS,215478080.0,11441.0,0,0,0,,,,,yahoo
+UNTC.TA,,,"Unic-tech, Limited Partnership",ILA,USD,4415599.0,11406.0,0,0,0,,,,,yahoo
+TUZA.TA,,,Teuza - A Fairchild Technology Venture Ltd.,ILA,USD,25978212.0,11288.0,0,0,0,,,,,yahoo
+IARG.TA,,,Iargento Hi Tech Assets Limited Partnership,ILA,,,10860.0,0,0,0,,,,,yahoo
+PLCR.TA,,,Plasto-Cargal Group Ltd,ILA,ILS,43070296.0,10648.0,0,0,0,,,,,yahoo
+SONO.TA,,,Sonovia Ltd,ILA,USD,5927910.0,10644.0,0,0,0,,,,,yahoo
+PRKM.TA,,,Parkomat International Ltd,ILA,ILS,27198108.0,9824.0,0,0,0,,,,,yahoo
+SPDV.TA,,,Speedvalue Ltd,ILA,ILS,23548992.0,9560.0,0,0,0,,,,,yahoo
+WATR.TA,,,Water.Io Ltd,ILA,,2651948.0,9083.0,0,0,0,,,,,yahoo
+UNCT.TA,,,Unicorn Technologies - Limited Partnership,ILA,ILS,19045614.0,8952.0,0,0,0,,,,,yahoo
+LPHL.TA,,,Lapidoth-Heletz Limited Partnership,ILA,ILS,96763384.0,8617.0,0,0,0,,,,,yahoo
+TAYA.TA,,,"Taya Investment Co., Ltd.",ILA,ILS,117357120.0,8139.0,0,0,0,,,,,yahoo
+MUTG.TA,,,Urban Brand Ltd,ILA,ILS,,7983.0,0,0,0,,,,,yahoo
+PPIL.TA,,,Plastopil Hazorea Company Ltd,ILA,ILS,81226800.0,7843.0,0,0,0,,,,,yahoo
+ALMD.TA,,,Allmed Solutions Ltd,ILA,ILS,27868870.0,7511.0,0,0,0,,,,,yahoo
+PSEC.TA,,,Prospect Capital Corporation,ILA,USD,,7241.0,0,0,0,,,,,yahoo
+SMAG.TA,,,Smart Agro - Limited,ILA,ILS,2262135.0,7214.0,0,0,0,,,,,yahoo
+IMED.TA,,,Imed Infinity Medical-Limited Partnership,ILA,USD,5958225.0,7156.0,0,0,0,,,,,yahoo
+YAAZ.TA,,,Yaaz Entrepreneurship and Urban Renewal Ltd,ILA,ILS,141830528.0,7048.0,0,0,0,,,,,yahoo
+BLWV-M.TA,,,Blue Wave Water Capital Ltd,ILA,ILS,17195446.0,6624.0,0,0,0,,,,,yahoo
+NRGN.TA,,,NRGene Technologies Ltd,ILA,USD,9368292.0,5717.0,0,0,0,,,,,yahoo
+AVRT.TA,,,Avrot Industries Ltd,ILA,ILS,237780608.0,5600.0,0,0,0,,,,,yahoo
+PSRX.TA,,,PsyRX CNS Bio-Tech Ltd,ILA,,7035588.0,5508.0,0,0,0,,,,,yahoo
+IBIS.TA,,,IBI Silver Castle Ltd,ILA,ILS,9742599.0,5238.0,0,0,0,,,,,yahoo
+SOLT-M.TA,,,Solterra Renewable Energies Ltd,ILA,EUR,14400028.0,4826.0,0,0,0,,,,,yahoo
+BIGT.TA,,,Big Tech 50 R&D-Limited Partnership,ILA,USD,11980494.0,4821.0,0,0,0,,,,,yahoo
+STEC.TA,,,Shure-Tech Investments - Limited Partnership,ILA,ILS,7742857.0,4773.0,0,0,0,,,,,yahoo
+AUIS.TA,,,E.S. Australia Israel Holdings Ltd,ILA,ILS,77920872.0,4506.0,0,0,0,,,,,yahoo
+HMAM.TA,,,Hamama Meir Trading (1996) Ltd.,ILA,ILS,75899128.0,4344.0,0,0,0,,,,,yahoo
+GLAM.TA,,,Galam Ltd.,ILA,USD,794471360.0,4310.0,0,0,0,,,,,yahoo
+LODZ.TA,,,Lodzia Real Estate Ltd.,ILA,ILS,72143040.0,4283.0,0,0,0,,,,,yahoo
+ERKA.TA,,,Erika Carmel-Tech Ltd,ILA,ILS,19999736.0,4139.0,0,0,0,,,,,yahoo
+PHTM.TA,,,Photomyne Ltd,ILA,USD,40466260.0,4118.0,0,0,0,,,,,yahoo
+NXFR-M.TA,,,NextFerm Technologies Ltd,ILA,USD,9328867.0,3893.0,0,0,0,,,,,yahoo
+SVRT-M.TA,,,SavorEat Ltd.,ILA,ILS,3558486.0,3810.0,0,0,0,,,,,yahoo
+ALRE.TA,,,Almadev Real Estate Inc.,ILA,CAD,1097070080.0,3736.0,0,0,0,,,,,yahoo
+GPAY-M.TA,,,Global Pay (P.C.S) Ltd,ILA,ILS,16893900.0,3218.0,0,0,0,,,,,yahoo
+YESD.TA,,,Yesodot Eitanim Construction Ltd,ILA,ILS,21022352.0,2932.0,0,0,0,,,,,yahoo
+MRHL.TA,,,Merchavia Holdings and Investments Ltd,ILA,ILS,25515618.0,2850.0,0,0,0,,,,,yahoo
+BIRM.TA,,,Birman Wood & Hardware Ltd,ILA,ILS,103683936.0,2837.0,0,0,0,,,,,yahoo
+JNGO.TA,,,Jungo Connectivity Ltd,ILA,,19334570.0,2741.0,0,0,0,,,,,yahoo
+SARN.TA,,,Sarine Technologies Ltd.,ILA,USD,120116736.0,2699.0,0,0,0,,,,,yahoo
+CTPL1.TA,,,I.C.P. Israel Citrus Plantations Ltd.,ILA,ILS,44079884.0,2555.0,0,0,0,,,,,yahoo
+ORTC.TA,,,O.R.T. Technologies Ltd,ILA,ILS,38120544.0,2030.0,0,0,0,,,,,yahoo
+MLD-M.TA,,,MirLand Development Corporation Plc,ILA,USD,,2000.0,0,0,0,,,,,yahoo
+PTX.TA,,,Petrotx - Limited Partnership,ILA,USD,2488207.0,1777.0,0,0,0,,,,,yahoo
+UMH.TA,,,"UMH Properties, Inc.",ILA,USD,3672434688.0,1505.0,0,0,0,,,,,yahoo
+STRW.TA,,,"Strawberry Fields REIT, Inc.",ILA,USD,2167518720.0,1457.0,0,0,0,,,,,yahoo
+SPRG.TA,,,Spring Ventures Ltd,ILA,ILS,44978984.0,1250.0,0,0,0,,,,,yahoo
+HDST-M.TA,,,HBL - Hadasit Bio-Holdings Ltd,ILA,ILS,6653113.0,1147.0,0,0,0,,,,,yahoo
+CTPL5.TA,,,I.C.P. Israel Citrus Plantations Ltd.,ILA,ILS,212428160.0,1026.0,0,0,0,,,,,yahoo
+CNZN-M.TA,,,Canzon Israel Ltd,ILA,ILS,4441775.0,590.0,0,0,0,,,,,yahoo
+BHST.TA,,,BIOHARVEST SCIENCE,ILA,USD,131609488.0,546.0,0,0,0,,,,,yahoo
+CNTL-M.TA,,,Continual Ltd,ILA,USD,7239245.0,361.0,0,0,0,,,,,yahoo
+EFNC-M.TA,,,Erech Finance Cahalacha Ltd,ILA,ILS,3137363.0,340.0,0,0,0,,,,,yahoo
+SVRE-L.TA,,,SaverOne 2014 Ltd.,ILA,ILS,1079928832.0,58.0,0,0,0,,,,,yahoo
+KOHN-B1.TA,,,Kohan Properties Ltd.,ILA,,,,0,0,0,,,,,yahoo
+ABOU-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ACRO-B2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ADRT-B4.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+AEPL-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+AEPL-B2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+AFHL-B5.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+AFPR-B18.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+AFPR-P6.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+AFRE-B6.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+AGLN-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+AGRD-C1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ALBI-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ALHE-B16.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ALHE-B17.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ALMA-B13.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ALMC-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ALMY-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ALUM-C1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+AMIM-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+AMPA-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+AMPA-P3.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+AMRM-B4.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+AMTR-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+AMTR-B2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ARF-B4.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ARGO-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ARGO-C1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ARPR-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ARPT-B13.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ARPT-B14.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ASGR-B10.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ASGR-B11.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ASPR-B15.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+AURA-B19.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+AVDP-B3.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+AVDP-B5.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+AVDP-B6.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+AVDP-B7.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+AVDP-B8.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+AVGD-B4.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+AVGM-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+AVGR-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+AYA-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+AYAL-B6.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+AZMZ-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+AZRL-B10.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+AZRL-B11.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+AZRM-B16.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+AZRT-B4.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+BIG-B22.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+BIG-B23.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+BIG-B24.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+BIG-B25.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+BKFR-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+BLEG-B3.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+BLEG-B4.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+BLEG-B5.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+BONI-B23.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+BRAN-B4.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+BRND-B3.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+BSRE-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+BVGG-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+BZN-B17.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+CASL-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+CASL-B2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+CLIS-B4.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+CLLC-B14.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+CLLC-B15.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+CPI0431.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+CPI0456.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+CPI0837.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+CPLN-B5.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+CPPL-B2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+CRSM-B6.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+CRSM-B7.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+DIFI-B7.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+DIFI-B8.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+DIFI-P5.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+DIFI-P6.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+DIFI-P7.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+DLIA-B3.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+DLKG-B41.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+DLKG-B42.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+DNDP-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+DNDP-B2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+DNDP-B3.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+DNDP-B4.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+DNDP-B5.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+DNDP-B6.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+DORL-B3.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+DRAL-B9.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+DRSL-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+DRSL-B2.TA,,,DORSEL (B.A.Z.) 2.8%IDX/LKD BDS,ILA,,,,0,0,0,,,,,yahoo
+DSMN-B11.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+DSMN-B18.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+DSMN-B19.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+DSMN-P7.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+DSMN-P8.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+DSMN-P9.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+DSTN-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ECCL-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ECNR-B3.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ECNR-B4.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ELDT-B10.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ELDT-B11.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ELEC-B36.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ELEC-B37.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ELEC-B38.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ELEC-B39.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ELRL-B10.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ELRL-B11.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ELUS-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ENCR-B5.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ENCR-B6.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ENOP-B3.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ESLY-B3.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+EXPO-B2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+FOX-B2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+FOX-P1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+FTAL-B6.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+GABY-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+GABY-B2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+GAMA-P7.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+GIVO-R39.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+GMA-B4.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+GMA-B5.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+GMAI-B3.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+GOI0530.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+GOI0728.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+GOI0731.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+GOI1035.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+GSHM-B2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+GTRE-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+GVIM-P4.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+GVYM-B12.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+HGGE-B6.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+HILA-B4.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+HRIN-B3.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+HRIN-B4.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+HRIN-B5.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+HRIN-B6.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+HRIS-B21.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+HRIS-B22.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+HRIS-B23.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+HRIS-B24.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+HRPK-B5.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+HRPK-B6.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+IBID-B2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+IBID-B3.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+IBID-B4.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+IBID-B5.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+IBID-B6.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+IBID-B7.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+IBID-B8.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+IBII-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ICHO-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ILDC-B27.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+INIS-B13.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+INIS-B14.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+INIS-P2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+INIS-P3.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+INIS-P4.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+INIS-P5.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+INIS-P6.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+INRM-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+IPO-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ISAH-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ISCD-P5.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ISCN-B9.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ISHI-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ISPR-B3.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ISPR-B4.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ISRA-B4.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ISRS-B20.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ISTS-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+JRIS-B20.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+JRIS-B21.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+KATA-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+KSTN-B3.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+LEOF-B5.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+LEOS-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+LEVI-B9.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+LGTS-B7.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+LIAM-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+LIVI-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+LNTR-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+LSCO-B2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+LUM-B187.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+LUM-B188.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+LUM-B189.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+LUM-B190.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+LUM-B407.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+LUM-P10.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+LUM-P11.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+LUM-P12.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+LUM-P13.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+LUM-P14.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MAX-B5.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MAX-P6.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MDG-B11.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MDPR-B3.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MEDN-B2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MGDF-B15.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MGDF-B17.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MGDF-B18.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MGDF-B19.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MGDF-T16.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MGDO-B2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MGOR-P8.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MGRT-B10.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MGRT-B11.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MGRT-B12.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MGRT-B8.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MGRT-B9.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MIA-C1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MIDP-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MIDP-B2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MIDP-B4.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MLRN-B7.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MLSR-B22.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MLSR-P6.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MNIF-B4.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MNMO-10.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MNMO-B11.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MNRT-B5.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MOIN-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MPP-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MRIN-B2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MRPK-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MRPK-B2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MRPK-B3.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MRPK-B4.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MRPK-B5.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MRPK-B6.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MSKE-B3.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MTRX-C2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MUTG-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MVNE-B26.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MVNE-B27.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MWIN-B5.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MYDS-C2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MZIS-B72.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MZIS-B73.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MZIS-B74.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MZIS-P6.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+MZIS-P7.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+NAWI-B7.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+NAWI-B8.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+NAWI-P12.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+NGVG-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+NMCO-B6.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+NMCO-B7.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+NOFR-B6.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+NSTR-B14.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+NTNB-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+NUSA-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+NVPT-B8.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+NWMD-B2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+OFEK-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+OPAL-B4.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+OPCE-B5.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ORNP-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ORNP-B2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ORSE-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+PAZ-P2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+PEN-B4.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+PENT-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+PHOE-C7.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+PIDE-B4.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+PIDE-B5.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+PIIN-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+PIIN-B2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+PIIN-B3.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+PIIN-B4.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+PIIN-B5.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+PIIN-B6.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+PKHL-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+PNCP-B16.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+PNCP-B17.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+PNCP-B18.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+POL-B102.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+POL-B103.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+POL-B104.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+POL-B105.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+POL-B106.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+POL-B14.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+POL-B15.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+POL-B16.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+POL-B204.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+POL-P3.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+POSA-B3.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+PRIM-B4.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+PRPD-B2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+PRSK-B16.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+PRSK-B17.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+PRTC-B2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+PSEC-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+PTBL-B12.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+PTBL-B13.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+PTCH-B11.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+RANI-B5.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+RAYK-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+RAYK-B2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+RENT-B2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+RIT1-B8.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+RMA-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ROTS-B14.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+RSDR-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+RSDR-B2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+SADE-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+SATL-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+SBEN-B2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+SCC-B19.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+SCC-B20.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+SFRN-B3.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+SKBN-B11.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+SMBR-B2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+SMIT-P4.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+SMNR-C1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+SMT-B14.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+SNFL-B5.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+SONR-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+SPEN-B4.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+SPGS-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+SPGS-B2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+SPNR-B7.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+SPRD-B10.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+SPRD-B3.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+SPRD-B4.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+SPRD-B5.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+SPRD-B6.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+SPRD-B7.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+SPRD-B8.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+SPRD-B9.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+SRFT-B14.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+STRW-B2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+STRW-B3.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+STRW-B4.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+TDHR-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+TDHR-B2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+TDRN-B5.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+TR1017.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+TR1116.TA,,,TREASR BND 1116,ILA,,,,0,0,0,,,,,yahoo
+TR117.TA,,,ISRAEL(STATE OF) 0% T-BILL 04/0,ILA,,,,0,0,0,,,,,yahoo
+TR1216.TA,,,TREASR BND 1216,ILA,,,,0,0,0,,,,,yahoo
+TR217.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+TR317.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+TR417.TA,,,TREASR BND 417,ILA,,,,0,0,0,,,,,yahoo
+TR517.TA,,,TREASR BND 517,ILA,,,,0,0,0,,,,,yahoo
+TR617.TA,,,TREASR BND 617,ILA,,,,0,0,0,,,,,yahoo
+TR717.TA,,,TREASR BND 717,ILA,,,,0,0,0,,,,,yahoo
+TR817.TA,,,TREASR BND 817,ILA,,,,0,0,0,,,,,yahoo
+TR927.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+TSG-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+TURG-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+UDII-B7.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+UMH-B2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+UNMI-P2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+VILR-B11.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+VILR-B12.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+WESR-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+WSDL-B4.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+YAAZ-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+YBOX-C7.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+YLST-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+YOZM-B2.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ZPRS-B1.TA,,,,ILA,,,,0,0,0,,,,,yahoo
+ZUR-B13.TA,,,,ILA,,,,0,0,0,,,,,yahoo

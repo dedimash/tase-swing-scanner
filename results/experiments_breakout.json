@@ -1,0 +1,140 @@
+{
+ "train_ideas": {
+  "run_at": "2026-10-16T18:15:27",
+  "period": [
+   "2021-10-16",
+   "2024-10-16"
+  ],
+  "results": {
+   "baseline": {
+    "overrides": {},
+    "trades": 501,
+    "win_rate": 0.3992,
+    "expectancy_r": -0.1285,
+    "expectancy_se": 0.0471,
+    "profit_factor": 0.753,
+    "cagr_pct": -3.15,
+    "max_drawdown_pct": -17.04,
+    "avg_exposure_pct": 26.9
+   },
+   "above_sma200": {
+    "overrides": {
+     "above_sma200": true
+    },
+    "trades": 440,
+    "win_rate": 0.3841,
+    "expectancy_r": -0.1599,
+    "expectancy_se": 0.05,
+    "profit_factor": 0.703,
+    "cagr_pct": -6.82,
+    "max_drawdown_pct": -26.11,
+    "avg_exposure_pct": 26.7
+   },
+   "rs_positive": {
+    "overrides": {
+     "min_rs": 0.0
+    },
+    "trades": 386,
+    "win_rate": 0.4041,
+    "expectancy_r": -0.1372,
+    "expectancy_se": 0.055,
+    "profit_factor": 0.745,
+    "cagr_pct": -6.75,
+    "max_drawdown_pct": -24.56,
+    "avg_exposure_pct": 25.8
+   },
+   "contraction": {
+    "overrides": {
+     "max_atr_contraction": 1.0
+    },
+    "trades": 292,
+    "win_rate": 0.387,
+    "expectancy_r": -0.1587,
+    "expectancy_se": 0.0621,
+    "profit_factor": 0.708,
+    "cagr_pct": -1.99,
+    "max_drawdown_pct": -17.0,
+    "avg_exposure_pct": 21.0
+   },
+   "strong_close": {
+    "overrides": {
+     "min_close_location": 0.75
+    },
+    "trades": 370,
+    "win_rate": 0.3892,
+    "expectancy_r": -0.1609,
+    "expectancy_se": 0.0554,
+    "profit_factor": 0.706,
+    "cagr_pct": -4.47,
+    "max_drawdown_pct": -19.49,
+    "avg_exposure_pct": 23.8
+   },
+   "stop_entry": {
+    "overrides": {
+     "entry_mode": "stop_above_high"
+    },
+    "trades": 339,
+    "win_rate": 0.4366,
+    "expectancy_r": -0.0812,
+    "expectancy_se": 0.053,
+    "profit_factor": 0.821,
+    "cagr_pct": -3.87,
+    "max_drawdown_pct": -15.27,
+    "avg_exposure_pct": 20.8
+   },
+   "tighter_stop": {
+    "overrides": {
+     "max_stop_atr": 1.0
+    },
+    "trades": 539,
+    "win_rate": 0.3302,
+    "expectancy_r": -0.199,
+    "expectancy_se": 0.0575,
+    "profit_factor": 0.724,
+    "cagr_pct": -8.91,
+    "max_drawdown_pct": -32.7,
+    "avg_exposure_pct": 36.9
+   },
+   "breakeven": {
+    "overrides": {
+     "breakeven_r": 1.0
+    },
+    "trades": 502,
+    "win_rate": 0.3725,
+    "expectancy_r": -0.1431,
+    "expectancy_se": 0.0466,
+    "profit_factor": 0.724,
+    "cagr_pct": -3.33,
+    "max_drawdown_pct": -15.73,
+    "avg_exposure_pct": 26.8
+   },
+   "trail": {
+    "overrides": {
+     "trail_atr": 2.0,
+     "target_r": null
+    },
+    "trades": 487,
+    "win_rate": 0.3409,
+    "expectancy_r": -0.1299,
+    "expectancy_se": 0.0551,
+    "profit_factor": 0.745,
+    "cagr_pct": -8.4,
+    "max_drawdown_pct": -25.65,
+    "avg_exposure_pct": 26.9
+   },
+   "rank_rs": {
+    "overrides": {
+     "rank_by": "rs"
+    },
+    "trades": 501,
+    "win_rate": 0.3992,
+    "expectancy_r": -0.1285,
+    "expectancy_se": 0.0471,
+    "profit_factor": 0.753,
+    "cagr_pct": -5.59,
+    "max_drawdown_pct": -23.72,
+    "avg_exposure_pct": 26.1
+   }
+  }
+ }
+}
