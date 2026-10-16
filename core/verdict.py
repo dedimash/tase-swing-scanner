@@ -70,6 +70,7 @@ class MarketContext:
     event_days: pd.DatetimeIndex
     events: dict[str, StockEvents]
     edge: dict  # תוכן results/edge_cards.json
+    index_note: str | None = None  # הערה לתצוגה כשהמדד הגיע מהגיבוי ולא מ-Yahoo
 
     @property
     def regime_now(self) -> str | None:

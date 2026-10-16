@@ -26,6 +26,13 @@ def _market_box(ctx) -> None:
     if breadth is not None:
         parts.append(f"{breadth * 100:.0f}% מהמניות נמצאות מעל הממוצע של 50 הימים האחרונים")
     st.info(" · ".join(parts))
+    if ctx.index_note:
+        st.caption(f"ⓘ {ctx.index_note}")
+    if regime is None:
+        st.warning(
+            "לא הצלחתי לקבל כרגע את נתוני מדד ת\"א 125. בלי המדד אי אפשר לדעת את מצב השוק, "
+            "ולכן כרגע לא יופיע רמזור ירוק. נסי שוב בעוד כמה דקות."
+        )
 
 
 def _run_scan() -> dict:

@@ -60,6 +60,10 @@ def render() -> None:
         )
 
     render_verdict(verdict)
+    if ctx.index_note:
+        st.caption(f"ⓘ {ctx.index_note}")
+    if ctx.regime_now is None:
+        st.caption("⚠ נתוני מדד ת\"א 125 לא התקבלו כרגע, ולכן לא יופיע רמזור ירוק. נסי שוב בעוד כמה דקות.")
     st.markdown("#### 🔍 בדיקה בצ'אט")
     render_chat_prompt(build_prompt(verdict, display_name(row), df, us, name_en=row.get("name_en") or ""), key=symbol)
     if not ctx.edge:

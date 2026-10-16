@@ -105,7 +105,7 @@ class YahooProvider(PriceProvider):
             )
         return cur
 
-    def _download(self, symbols: list[str], **kwargs) -> dict[str, pd.DataFrame]:
+    def _download_once(self, symbols: list[str], **kwargs) -> dict[str, pd.DataFrame]:
         import yfinance as yf
 
         chunk = load_config()["data"]["download_chunk_size"]
@@ -131,6 +131,18 @@ class YahooProvider(PriceProvider):
                     out[sym] = normalize_frame(sub, self.currency(sym))
             if i + chunk < len(symbols):
                 time.sleep(1.0)
+        return out
+
+    def _download(self, symbols: list[str], retries: int = 2, **kwargs) -> dict[str, pd.DataFrame]:
+        """מוריד, ומנסה שוב את מה שלא הגיע. Yahoo מגביל לפעמים בקשות משרתי ענן ("Too Many Requests")."""
+        out = self._download_once(symbols, **kwargs)
+        for attempt in range(retries):
+            missing = [s for s in symbols if s not in out]
+            # מניה בודדת בלי נתונים ברשימה ארוכה היא בדרך כלל מניה שנמחקה, לא חסימה. לא מחכים בשבילה.
+            if not missing or (len(symbols) > 5 and len(missing) < 5):
+                break
+            time.sleep(3.0 * (attempt + 1))
+            out.update(self._download_once(missing, **kwargs))
         return out
 
     def daily(self, symbols: list[str], years: int) -> dict[str, pd.DataFrame]:

@@ -48,6 +48,43 @@ def test_real_large_move_not_touched():
     assert df["close"].tolist() == pytest.approx([100.0, 140.0, 70.0])
 
 
+def test_download_retries_when_yahoo_rate_limits(monkeypatch, tmp_path):
+    """הניסיון הראשון חוזר ריק (כמו חסימה של Yahoo), השני מצליח."""
+    from core import data as data_mod
+
+    monkeypatch.setattr(data_mod, "cache_dir", lambda: tmp_path)
+    monkeypatch.setattr(data_mod.time, "sleep", lambda s: None)
+    provider = data_mod.YahooProvider({"^TA125.TA": "ILS"})
+    calls = []
+
+    def fake_once(symbols, **kwargs):
+        calls.append(list(symbols))
+        if len(calls) == 1:
+            return {}
+        return {s: normalize_frame(raw([100.0, 101.0]), "ILS") for s in symbols}
+
+    monkeypatch.setattr(provider, "_download_once", fake_once)
+    out = provider._download(["^TA125.TA"], period="1y", interval="1d")
+    assert "^TA125.TA" in out and len(calls) == 2
+
+
+def test_no_retry_for_single_missing_stock_in_long_list(monkeypatch, tmp_path):
+    from core import data as data_mod
+
+    monkeypatch.setattr(data_mod, "cache_dir", lambda: tmp_path)
+    provider = data_mod.YahooProvider({})
+    symbols = [f"S{i}.TA" for i in range(10)]
+    calls = []
+
+    def fake_once(syms, **kwargs):
+        calls.append(list(syms))
+        return {s: normalize_frame(raw([100.0]), "ILS") for s in syms if s != "S3.TA"}
+
+    monkeypatch.setattr(provider, "_download_once", fake_once)
+    out = provider._download(symbols)
+    assert len(out) == 9 and len(calls) == 1
+
+
 def test_quality_report_flags_jump_and_missing_day():
     good = normalize_frame(raw([100.0, 101, 102, 103]), "ILS")
     jumpy = normalize_frame(raw([100.0, 140, 101, 102]), "ILS")

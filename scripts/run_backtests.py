@@ -23,7 +23,7 @@ from core.backtest import (  # noqa: E402
     run_setup,
     walk_forward,
 )
-from core.config import RESULTS_DIR, load_config  # noqa: E402
+from core.config import DATA_DIR, RESULTS_DIR, load_config  # noqa: E402
 from core.data import PriceStore, quality_report  # noqa: E402
 from core.regime import breadth, market_event_days, market_regime  # noqa: E402
 from core.scoring import calibration, score_signals  # noqa: E402
@@ -63,6 +63,8 @@ def main() -> None:
     index_sym = cfg["data"]["index_symbol"]
     index_df = store.daily([index_sym])[index_sym]
     print(f"  got {len(frames)} stocks, index rows {len(index_df)}")
+    # גיבוי של המדד לאפליקציה בענן, למקרה ש-Yahoo חוסם שם בקשות
+    index_df.to_parquet(DATA_DIR / "index_snapshot.parquet")
 
     quality = quality_report(frames, index_df.index)
     flagged = quality[quality["issue"] != ""]
