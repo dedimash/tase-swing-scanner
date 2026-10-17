@@ -52,7 +52,7 @@ html, body, .stApp { font-size: 18px; }
   [data-testid="stMetricValue"] { font-size: 1.55rem; }
   [data-testid="stMetricLabel"] p { font-size: 0.9rem; }
   .stApp h1 { font-size: 1.7rem; }
-  .app-title { font-size: 1.6rem; }
+  .app-title { font-size: 1.35rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
   .st-key-navbar { flex-wrap: nowrap !important; gap: 0.4rem !important; }
   .st-key-navbar > div { flex: 1 1 0 !important; min-width: 0 !important; width: auto !important; }
   .st-key-navbar button { padding-left: 0.3rem; padding-right: 0.3rem; min-height: 3.2rem; }
