@@ -21,6 +21,12 @@ html, body, .stApp { font-size: 18px; }
 [data-testid="stSlider"] [data-baseweb="slider"] { direction: ltr; }
 .stApp label[data-baseweb="checkbox"] { gap: 0.6rem; }
 
+/* הכותרת הראשית של האפליקציה */
+.app-title {
+  text-align: center; font-size: 2rem; font-weight: 700; color: #1f6feb;
+  padding: 0.4rem 0 0.2rem; line-height: 1.3;
+}
+
 /* ניווט: מסתירים את הכותרת של Streamlit, וסרגל הכפתורים נשאר למעלה גם בגלילה */
 [data-testid="stHeader"] { display: none; }
 [data-testid="stMainBlockContainer"] { padding-top: 0.75rem; }
@@ -45,7 +51,8 @@ html, body, .stApp { font-size: 18px; }
   [class*="st-key-grid_"] [data-testid="stColumn"] { min-width: 0 !important; width: 50% !important; flex: 1 1 50% !important; }
   [data-testid="stMetricValue"] { font-size: 1.55rem; }
   [data-testid="stMetricLabel"] p { font-size: 0.9rem; }
-  .stApp h1 { font-size: 2rem; }
+  .stApp h1 { font-size: 1.7rem; }
+  .app-title { font-size: 1.6rem; }
   .st-key-navbar { flex-wrap: nowrap !important; gap: 0.4rem !important; }
   .st-key-navbar > div { flex: 1 1 0 !important; min-width: 0 !important; width: auto !important; }
   .st-key-navbar button { padding-left: 0.3rem; padding-right: 0.3rem; min-height: 3.2rem; }

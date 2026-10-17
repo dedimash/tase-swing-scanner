@@ -4,12 +4,19 @@ app.py רושם כאן את הדפים. התפריט המובנה של Streamlit
 """
 from __future__ import annotations
 
+import html
+
 import streamlit as st
 
 from ui.style import footer_notices
 
 PAGES: dict = {}
 MAIN = (("scan", "🔎 סריקה"), ("check", "📊 בדיקת מניה"), ("guide", "❓ הסבר"))
+
+
+def app_title(title: str) -> None:
+    """הכותרת הראשית מעל כפתורי הניווט. נגללת עם הדף, והכפתורים נשארים למעלה."""
+    st.markdown(f'<div class="app-title">📈 {html.escape(title)}</div>', unsafe_allow_html=True)
 
 
 def nav_bar(current) -> None:
