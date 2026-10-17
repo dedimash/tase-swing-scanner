@@ -5,7 +5,8 @@ from core.config import load_config
 from ui import nav, page_advanced, page_check, page_guide, page_scan
 from ui.style import apply_style
 
-TITLE = load_config()["app"]["title"]
+DEFAULT_TITLE = "סורק מניות"
+TITLE = load_config().get("app", {}).get("title") or DEFAULT_TITLE
 
 st.set_page_config(page_title=TITLE, page_icon="📈", layout="centered")
 apply_style()
